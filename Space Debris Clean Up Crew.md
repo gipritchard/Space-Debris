@@ -6,7 +6,7 @@ Team, your mission is critical, and the stakes are high. As you know, space debr
 You will be armed with cutting-edge technology and specialized tools. You will remove defunct satellites, rocket fragments, and other hazardous objects while also performing vital repairs on operational assets. The debris field is treacherous, and further damage to satellites will jeopardize future missions. Proceed with caution, your success is essential to the future of space exploration.
 # Components
 
-![](/attachments/components.jpg)
+![](../attachments/components.png)
 
 - 1 Earth token
 - 3 Game boards
@@ -38,11 +38,11 @@ You will be armed with cutting-edge technology and specialized tools. You will r
 	- 4 Satellite HP Tracker tokens
 # Set Up
 
-![](/attachments/set_up_complete_example.jpg)
+![](../attachments/set_up_complete_example.jpg)
 
 ## Create the Game Board
 
-![](/attachments/set_up0.jpg)
+![](../attachments/set_up0.jpg)
 
 1. Place the Geostationary Orbit (GSO) game board in the center of the table
 2. Stack the High Earth Orbit (HEO) game board on top of the GSO game board
@@ -51,7 +51,7 @@ You will be armed with cutting-edge technology and specialized tools. You will r
 5. Align GSO, HEO, LEO, & Earth arrows as shown in the picture above
 ## Assign Player Space Ships
 
-![](/attachments/set_up1.jpg)
+![](../attachments/set_up1.jpg)
 
 1. Give each player a player aid
 2. Give each player 1 pawn, 1 Space Ship card, and 1 Space Ship HP Tracker token 
@@ -62,7 +62,7 @@ You will be armed with cutting-edge technology and specialized tools. You will r
 7. Each player, draw 2 cards from the Resource Deck and adds them to their hand 
 ## Add Orbitals
 
-![](/attachments/set_up2.jpg)
+![](../attachments/set_up2.jpg)
 
 1. Remove Debris Ramp cards from the Debris deck
 2. Separate the Debris deck into LEO, HEO, & GSO card piles
@@ -82,7 +82,7 @@ You will be armed with cutting-edge technology and specialized tools. You will r
 16. Place the remaining Debris cubes near the game board, this is the supply
 ## Choose Satellites
 
-![](/attachments/set_up3.jpg)
+![](../attachments/set_up3.jpg)
 
 1. Place the Satellite Assignment Track near the game board
 2. Shuffle all Satellite cards together
@@ -99,22 +99,22 @@ The player who last looked at the night sky goes first, and play continues to th
 ## 1. Take up to 4 actions
 On your turn you may take up to 4 actions, in any order. You may take the same action multiple times. You may collaborate with your teammates to decide which actions you want to take.   
 ### Move
-![](/attachments/action_move_example.jpg)
+![](../attachments/action_move_example.jpg)
 - Move your player pawn 1 space following dotted lines.  
 If the space you move into contains any Debris Cubes, your Space Ship takes 1 point of damage. Players may share a space with other players and/or a satellite.
 ### Capture Debris
-![](/attachments/action_capture_example.jpg)
+![](../attachments/action_capture_example.jpg)
 - Move 1 Debris Cube from an adjacent space onto your Space Ship card
 OR
 - Move any number of Debris Cubes from your space onto your Space Ship card
 Space Ships are limited to carrying a maximum of 5 Debris Cubes at any time.
 ### Recycle
-![](/attachments/action_recycle_example.jpg)
+![](../attachments/action_recycle_example.jpg)
 At any repaired Satellite space...
 - Move any number of Debris Cubes from your Space Ship card back to the supply. Draw that number of Resource cards.
 See the "Hand Limit" section for restrictions. 
 ### Perform Maintenance
-![](/attachments/action_maintenance_example.jpg)
+![](../attachments/action_maintenance_example.jpg)
 At any broken Satellite space, you may...
 - Place any number of Resource cards from your hand onto the associated Satellite card matching the required resources
 - If all required resources have been delivered to a Satellite...
@@ -123,13 +123,13 @@ At any broken Satellite space, you may...
 	- Set that Satellite's HP tracker to the maximum value  
 - If all Satellite cards are on the repaired side, you win!
 ### Repair
-![](/attachments/action_repair_example.jpg)
+![](../attachments/action_repair_example.jpg)
 At any Satellite space, you may...
 - Increase your Space Ship's health by 1 HP, up to the maximum
 OR
 - Increase the associated Satellite's health by 1 HP, up to the maximum
 ### Exchange Resource
-![](/attachments/action_exchange_example.jpg)
+![](../attachments/action_exchange_example.jpg)
 While sharing a space with another player, you may...
 - Give 1 Resource card to the other player
 OR
@@ -156,7 +156,7 @@ Cannot be played as an action. This card is a wild resource (fuel, electronics, 
 Each space on the game board is limited to 3 Debris Cubes. As Debris accumulates in a space, the risk of a collision and fragmentation rises.   
 
 Look at the Collision tracker on the game board. This indicates the number of cards to draw from the Debris deck, and the number of Debris cubes to place at that location.
-![](/attachments/debris_example.jpg)
+![](../attachments/debris_example.jpg)
 - Draw the indicated number of Debris cards 1 at a time from the Debris deck.
 - If it is an orbit card...
 	- Locate the associated space on the game board
@@ -177,14 +177,14 @@ Look at the Collision tracker on the game board. This indicates the number of ca
 	- Place the Debris deck face down
 - If you are required to place Debris Cubes on a space and don't have enough in the supply, your team is defeated. 
 ### Collisions
-![](/attachments/collision_example.jpg)
+![](../attachments/collision_example.jpg)
 - Increase the Collision Marker by 1 space
 	- If you are unable to increase the Collision Marker by one space, you are defeated.
 - TODO
 
 ## 3. Orbit Around Earth
 The final step of a player's turn is rotating the High Earth Orbit and Low Earth Orbit boards. Only perform this step if neither of these game boards rotated during the current player's turn.
-![](/attachments/orbit_example.jpg)
+![](../attachments/orbit_example.jpg)
 - Rotate the High Earth Orbit (HEO) board with all pieces on it, 90° clockwise
 - Rotate the Low Earth Orbit (LEO) board with all pieces on it, 180° clockwise
 Play passes to the player on the left.
