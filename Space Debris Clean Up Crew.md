@@ -42,7 +42,8 @@ You will be armed with cutting-edge technology and specialized tools. You will r
 
 ## Create the Game Board
 
-![](../attachments/set_up0.jpg)
+![](../assets/screenshots/TX_Setup0.png)
+*Initial set up with game boards stacked on top of each other*
 
 1. Place the Geostationary Orbit (GSO) game board in the center of the table
 2. Stack the High Earth Orbit (HEO) game board on top of the GSO game board
@@ -62,7 +63,8 @@ You will be armed with cutting-edge technology and specialized tools. You will r
 7. Each player, draw 2 cards from the Resource Deck and adds them to their hand 
 ## Add Orbitals
 
-![](../attachments/set_up2.jpg)
+![](../assets/screenshots/TX_Setup2.png)
+*Example 4 player game set up*
 
 1. Remove Debris Ramp cards from the Debris deck
 2. Separate the Debris deck into LEO, HEO, & GSO card piles
@@ -84,12 +86,11 @@ You will be armed with cutting-edge technology and specialized tools. You will r
 
 ![](../attachments/set_up3.jpg)
 
-1. Place the Satellite Assignment Track near the game board
-2. Shuffle all Satellite cards together
-3. Draw 4 Satellite cards
-4. Place the drawn Satellite cards, on the broken side, under the Satellite Assignment Track
-5. Players choose (or randomly choose) 1 Satellite card to flip to the repaired side
-6. Place the Satellite HP Tracker token on each Satellite card under the 4 HP mark  
+1. Shuffle all Satellite cards together
+2. Draw 4 Satellite cards
+3. Place the drawn Satellite cards, on the broken side, under the Satellite Tracker
+4. Players choose (or randomly choose) 1 Satellite card to flip to the repaired side
+5. Place the Satellite HP Tracker token on each Satellite card under the 4 HP mark  
 # Order of Play
 
 The player who last looked at the night sky goes first, and play continues to the left. On every turn do the following three things in order.
