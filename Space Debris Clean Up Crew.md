@@ -210,3 +210,12 @@ Players are defeated if any of the following conditions are met:
 
 - Game Design: Alex Pritchard
 - Play Testers: 
+	- todo
+- Game Assets
+	- [Delapouite](https://delapouite.com) under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/)
+		- https://game-icons.net/1x1/delapouite/beam-satellite.html
+		- https://game-icons.net/1x1/delapouite/defense-satellite.html
+	- [Lorc](https://lorcblog.blogspot.com) under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/)
+		- https://game-icons.net/1x1/lorc/spoutnik.html
+		- https://game-icons.net/1x1/lorc/sattelite.html
+		- https://game-icons.net/1x1/lorc/pawn.html
