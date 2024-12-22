@@ -213,6 +213,8 @@ Players are defeated if any of the following conditions are met:
 - Play Testers: 
 	- todo
 - Game Assets
+	- [Kenny] under [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+		- https://kenney.nl/assets/board-game-icons
 	- [Delapouite](https://delapouite.com) under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/)
 		- https://game-icons.net/1x1/delapouite/beam-satellite.html
 		- https://game-icons.net/1x1/delapouite/defense-satellite.html
@@ -220,3 +222,4 @@ Players are defeated if any of the following conditions are met:
 		- https://game-icons.net/1x1/lorc/spoutnik.html
 		- https://game-icons.net/1x1/lorc/sattelite.html
 		- https://game-icons.net/1x1/lorc/pawn.html
+		- https://game-icons.net/1x1/lorc/cogsplosion.html
