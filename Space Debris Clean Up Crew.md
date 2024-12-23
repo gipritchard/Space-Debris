@@ -66,19 +66,19 @@ You will be armed with cutting-edge technology and specialized tools. You will r
 ![](../assets/screenshots/TX_Setup2.png)
 *Example 4 player game set up*
 
-1. Remove Debris Ramp cards from the Debris deck
+1. Remove Debris Fragmentation cards from the Debris deck
 2. Separate the Debris deck into LEO, HEO, & GSO card piles
 3. Shuffle each pile of cards separately
 4. Draw 1 card from the LEO pile, place the 'A' satellite token at this location
 5. Draw 1 card from the HEO pile, place the 'B' satellite token at this location
 6. Draw 1 card from the GSO pile, place the 'C' satellite token at this location
-7. Shuffle LEO, HEO, & GSO piles together, excluding ramp cards and debris cards drawn so far
+7. Shuffle LEO, HEO, & GSO piles together, excluding debris fragmentation cards and debris cards drawn so far
 8. Draw 1 card, place the 'D' satellite token at this location
 9. Draw 3 cards, place 3 debris cubes at these locations
 10. Draw 3 cards, place 2 debris cubes at these locations
 11. Draw 3 cards, place 1 debris cubes at these locations
 12. Each player, place their pawn on an empty space adjacent to a satellite OR places their pawn in a satellite space with no other pawns 
-13. Shuffle all debris cards and ramp cards together into a single Debris deck
+13. Shuffle all debris cards and debris fragmentation cards together into a single Debris deck
 14. Place the Collision Token on the GSO game board on the indicated starting space.
 15. Place the Debris deck face down near the game board
 16. Place the remaining Debris cubes near the game board, this is the supply
