@@ -50,6 +50,7 @@ You will be armed with cutting-edge technology and specialized tools. You will r
 3. Stack the Low Earth Orbit (LEO) game board on top of the HEO game board
 4. Stack the Earth token on top of the Low Earth Orbit game board
 5. Align GSO, HEO, LEO, & Earth arrows as shown in the picture above
+
 ## Assign Player Space Ships
 
 ![](../attachments/set_up1.jpg)
@@ -61,6 +62,7 @@ You will be armed with cutting-edge technology and specialized tools. You will r
 5. Shuffle all Resource cards into a single Resource deck
 6. Place the Resource deck face down near the game board
 7. Each player, draw 2 cards from the Resource Deck and adds them to their hand 
+
 ## Add Orbitals
 
 ![](../assets/screenshots/TX_Setup2.png)
@@ -97,23 +99,28 @@ The player who last looked at the night sky goes first, and play continues to th
 1. Take up to 4 actions
 2. Draw Debris cards
 3. Orbit around Earth
+
 ## 1. Take up to 4 actions
 On your turn you may take up to 4 actions, in any order. You may take the same action multiple times. You may collaborate with your teammates to decide which actions you want to take.   
+
 ### Move
 ![](../attachments/action_move_example.jpg)
-- Move your player pawn 1 space following dotted lines.  
+- Move your player pawn 2 space following dotted lines.  
 If the space you move into contains any Debris Cubes, your Space Ship takes 1 point of damage. Players may share a space with other players and/or a satellite.
+
 ### Capture Debris
 ![](../attachments/action_capture_example.jpg)
 - Move 1 Debris Cube from an adjacent space onto your Space Ship card
 OR
 - Move any number of Debris Cubes from your space onto your Space Ship card
 Space Ships are limited to carrying a maximum of 5 Debris Cubes at any time.
+
 ### Recycle
 ![](../attachments/action_recycle_example.jpg)
-At any repaired Satellite space...
+At any Satellite space...
 - Move any number of Debris Cubes from your Space Ship card back to the supply. Draw that number of Resource cards.
 See the "Hand Limit" section for restrictions. 
+
 ### Perform Maintenance
 ![](../attachments/action_maintenance_example.jpg)
 At any broken Satellite space, you may...
@@ -123,12 +130,14 @@ At any broken Satellite space, you may...
 	- Flip the associated Satellite card from the broken side to the repaired side
 	- Set that Satellite's HP tracker to the maximum value  
 - If all Satellite cards are on the repaired side, you win!
+
 ### Repair
 ![](../attachments/action_repair_example.jpg)
 At any Satellite space, you may...
 - Increase your Space Ship's health by 1 HP, up to the maximum
 OR
 - Increase the associated Satellite's health by 1 HP, up to the maximum
+
 ### Exchange Resource
 ![](../attachments/action_exchange_example.jpg)
 While sharing a space with another player, you may...
@@ -136,20 +145,26 @@ While sharing a space with another player, you may...
 OR
 - Take 1 Resource card from the other player
 See the "Hand Limit" section for restrictions.
+
 ### Play Resource Card
 You may play a Resource card for it's effect. Place the Resource card in the Resource discard pile after resolving it's effect.
+
 #### Fuel
-- Move your player pawn twice following the dotted lines. 
+- Move your player pawn twice following the dotted lines, ignoring damage from Debris Cubes.
+
 #### Electronics
 - Capture any number of Debris Cubes from 1 adjacent space. 
 - Place the Debris Cubes on your Space Ship card.
+
 #### Plastic
 - Recycle any number of Debris Cubes on your Space Ship card. 
 - Draw that number of Resource cards.
 See the "Hand Limit" section for restrictions.
+
 #### Metal
 - Fully repair 1 Space Ship or 1 Satellite in your space.
 - Move the target's HP tracker to the maximum value
+
 #### Junk
 Cannot be played as an action. This card is a wild resource (fuel, electronics, plastic, metal) used during a Repair action.
 
@@ -177,6 +192,7 @@ Look at the Collision tracker on the game board. This indicates the number of ca
 	- Shuffle the Debris discard pile and Debris deck together.
 	- Place the Debris deck face down
 - If you are required to place Debris Cubes on a space and don't have enough in the supply, your team is defeated. 
+
 ### Collisions
 ![](../attachments/collision_example.jpg)
 - Increase the Collision Marker by 1 space
@@ -188,7 +204,14 @@ The final step of a player's turn is rotating the High Earth Orbit and Low Earth
 ![](../attachments/orbit_example.jpg)
 - Rotate the High Earth Orbit (HEO) board with all pieces on it, 90° clockwise
 - Rotate the Low Earth Orbit (LEO) board with all pieces on it, 180° clockwise
+- If HEO has completed a full rotation around Earth, Orbital Drift occurs. Follow the steps below.
+
+### Orbital Drift
+- Remove 1 Debris Cube from each space in LEO.
+- Remove 1 Debris Cube from each space in GSO.
+
 Play passes to the player on the left.
+
 ## Hand Limit
 Players have a hand limit of 5 Resource cards. If you ever have 6 or more cards in hand, you must immediately choose & discard the excess Resource cards to the Resource discard pile. 
 - For each Resource card discarded this way, add 1 Debris Cube to an adjacent space with the fewest game pieces (Space Ships, Satellite, Debris Cubes). All Space Ships and Satellites in that space take 1 damage when the Debris Cube is added to their space.
