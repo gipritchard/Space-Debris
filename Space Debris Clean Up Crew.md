@@ -10,9 +10,9 @@ You will be armed with cutting-edge technology and specialized tools. You will r
 
 - 1 Earth token
 - 3 Game boards
+ - 1 Low Earth Orbit (LEO)
+ - 1 High Earth Orbit (HEO)
 	- 1 Geostationary Orbit (GSO)
-	- 1 High Earth Orbit (HEO)
-	- 1 Low Earth Orbit (LEO)
 - 52 card Resource Deck
 	- 10 Fuel cards
 	- 10 Electronics cards
@@ -32,7 +32,6 @@ You will be armed with cutting-edge technology and specialized tools. You will r
 	- 4 Space Ship HP Tracker tokens
 	- 4 Player aids
 - Satellite pieces
-	- 1 Satellite Assignment track
 	- 4 Satellite tokens
 	- 8 Double sided Satellite cards
 	- 4 Satellite HP Tracker tokens
