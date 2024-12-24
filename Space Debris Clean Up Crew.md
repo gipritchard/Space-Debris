@@ -104,8 +104,7 @@ On your turn you may take up to 4 actions, in any order. You may take the same a
 
 ### Move
 ![](../attachments/action_move_example.jpg)
-- Move your player pawn 2 space following dotted lines.
-  - Players may share a space with other players and/or a satellite.
+- Move your player pawn 2 space following dotted lines. Players may share a space with other players and/or a satellite.
   - If the space you move into contains any Debris Cubes, your Space Ship takes 1 point of damage.
 
 ### Capture Debris
