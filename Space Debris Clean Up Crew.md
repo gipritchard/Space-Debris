@@ -78,7 +78,7 @@ You will be armed with cutting-edge technology and specialized tools. You will r
 9. Draw 3 cards, place 3 debris cubes at these locations
 10. Draw 3 cards, place 2 debris cubes at these locations
 11. Draw 3 cards, place 1 debris cubes at these locations
-12. Each player, place their pawn on an empty space adjacent to a satellite OR places their pawn in a satellite space with no other pawns 
+12. Each player, place your pawn on a satellite or an empty space adjacent to a satellite
 13. Shuffle all debris cards and debris fragmentation cards together into a single Debris deck
 14. Place the Collision Token on the GSO game board on the indicated starting space.
 15. Place the Debris deck face down near the game board
@@ -104,8 +104,9 @@ On your turn you may take up to 4 actions, in any order. You may take the same a
 
 ### Move
 ![](../attachments/action_move_example.jpg)
-- Move your player pawn 2 space following dotted lines.  
-If the space you move into contains any Debris Cubes, your Space Ship takes 1 point of damage. Players may share a space with other players and/or a satellite.
+- Move your player pawn 2 space following dotted lines.
+  - Players may share a space with other players and/or a satellite.
+  - If the space you move into contains any Debris Cubes, your Space Ship takes 1 point of damage.
 
 ### Capture Debris
 ![](../attachments/action_capture_example.jpg)
