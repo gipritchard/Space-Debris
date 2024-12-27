@@ -203,11 +203,6 @@ The final step of a player's turn is rotating the High Earth Orbit and Low Earth
 ![](../attachments/orbit_example.jpg)
 - Rotate the High Earth Orbit (HEO) board with all pieces on it, 90° clockwise
 - Rotate the Low Earth Orbit (LEO) board with all pieces on it, 180° clockwise
-- If HEO has completed a full rotation around Earth, Orbital Drift occurs. Follow the steps below.
-
-### Orbital Drift
-- Remove 1 Debris Cube from each space in LEO.
-- Remove 1 Debris Cube from each space in GSO.
 
 Play passes to the player on the left.
 
