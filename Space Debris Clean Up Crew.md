@@ -5,7 +5,7 @@ Team, our mission is critical and the stakes are high. As you know, space debris
 
 Thats where you come in. These debris fields are full of the necessary resources we need to fix these satellites. Capture the debris, recycle it into usable resources, and deliver them to our satellite repair teams. 
 
-The debris field is treacherous, and further damage will jeopardize future missions. Proceed with caution, your success is essential to the future of space exploration.
+The debris field is treacherous, and further damage will jeopardize future missions. Proceed with caution, our success is essential to the future of space exploration.
 
 # Components
 ![](../attachments/components.png)
