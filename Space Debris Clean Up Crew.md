@@ -220,9 +220,7 @@ Play passes to the player on the left.
 
 ## Hand Limit
 Players have a hand limit of 5 Resource cards. If you ever have 6 or more cards in hand, you must immediately choose & discard the excess Resource cards to the Resource discard pile. 
-- For each Resource card discarded this way, add 1 Debris Cube to an adjacent space with the fewest game pieces (Space Ships, Satellite, Debris). All Space Ships and Satellites in that space take 1 damage when the Debris is added to their space.
-	- If there is a tie for fewest game pieces, the discarding player chooses.
-	- If the player is surrounded on all sides by spaces that contain 3 Debris Cubes, your team is defeated.
+
 ## When The Resource Deck Runs Out
 Immediately shuffle the Resource discard pile and stack the cards face down to form a new Resource deck. If this happens in the middle of a turn, continue to draw Resource cards as necessary from the new pile.
 
@@ -238,6 +236,20 @@ Players are defeated if any of the following conditions are met:
 - Any Satellite reaches 0 HP
 - You run out of Debris Cubes to place on the map
 - Any player must place a Debris Cube on an adjacent space AND all adjacent spaces contain 3 Debris Cubes.
+
+# Satellites
+TODO
+
+# Optional Advanced Rules
+Players looking for a more challenging experience may choose to play with the following rules and restrictions. This is not recommended for your first few games.
+
+## Discarded Resources become Debris
+Whenever any player discards a Resource card from their hand...
+
+- For each Resource card discarded this way, add 1 Debris Cube to an adjacent space with the fewest game pieces (Space Ships, Satellite, Debris). All Space Ships and Satellites in that space take 1 damage when the Debris is added to their space.
+	- If there is a tie for fewest game pieces, the discarding player chooses.
+	- If the player is surrounded on all sides by spaces that contain 3 Debris Cubes, your team is defeated.
+
 
 # Credits
 
