@@ -1,11 +1,11 @@
 2-4 Players | Age 13 and up | 60-90 Minutes
 # Objective
 
-Team, our mission is critical and the stakes are high. As you know, space debris has already caused significant damage to vital satellites; threatening communication, navigation, and weather systems essential for life on Earth. We have repair teams in orbit as we speak to repair these damaged satellites, but they don't have the supplies they need to get the job done.
+Team, our mission is critical and the stakes are high. As you know, space debris has already caused significant damage to vital satellites; threatening communication, navigation, and weather systems essential for life on Earth. We have repair teams in orbit as we speak to fix these damaged satellites, but they don't have enough supplies to get the job done.
 
 That's where you come in. These debris fields are full of the necessary resources we need to fix these satellites. Capture the debris, recycle it into usable resources, and deliver them to our satellite repair teams. 
 
-The debris field is treacherous, and further damage will jeopardize future missions. Proceed with caution, our success is essential to the future of space exploration.
+Debris fields are treacherous, and further damage will jeopardize future missions. Proceed with caution, our success is essential to the future of space exploration.
 
 # Components
 ![](../attachments/components.png)
@@ -225,7 +225,6 @@ Immediately shuffle the Resource discard pile and stack the cards face down to f
 ## Victory
 Players are victorious if any of the following conditions are met:
 - All Satellite cards are flipped to their operational side
-
 ## Defeat
 Players are defeated if any of the following conditions are met:
 - Any player's Space Ship reaches 0 HP
@@ -234,12 +233,15 @@ Players are defeated if any of the following conditions are met:
 - Any player must place Debris on an adjacent space AND all adjacent spaces contain 3 Debris
 
 # Optional Advanced Rules
-Players looking for a more challenging experience may choose to play with the following rules and restrictions. This is not recommended for your first few games.
-## Discarded Resources become Debris
+Players looking for a more challenging experience may choose to play with any (or all) of the following rules/restrictions. This is not recommended for your first few games.
+## Satellites in Peril
+During initial game set up, do not flip any malfunctioning satellites to their operational side 
+## Excess Resources become Debris
 For each Resource card discarded from a player's hand, add Debris to adjacent space(s) with the fewest game pieces (Space Ships, Satellite, Debris). 
 - All Space Ships and Satellites in spaces that receive Debris take 1 damage
 - If there is a tie for fewest game pieces, the discarding player chooses.
 - If the player is surrounded on all sides by spaces that contain 3 Debris Cubes, your team is defeated.
+**Example 1**: Caitlin has 3 cards in hand, and chooses to recycle 4 debris on her Space Ship. She draws 4 Resource cards and now has 7 total cards in hand. Caitlin must now choose any 2 cards in hand to discard. After discarding 2 cards, she takes 2 Debris from the supply and places them amongst adjacent spaces with the fewest game pieces. 
 
 # Glossary
 TODO
