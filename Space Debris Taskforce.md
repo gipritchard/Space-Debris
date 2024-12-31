@@ -1,11 +1,11 @@
 2-4 Players | Age 13 and up | 60-90 Minutes
-# Objective
+# Mission Brief
 
-Team, our mission is critical and the stakes are high. As you know, space debris has already caused significant damage to vital satellites; threatening communication, navigation, and systems essential for life on Earth. We have repair teams in orbit as we speak to fix these damaged satellites, but they don't have enough supplies to get the job done.
+Team, our mission is critical and the stakes are high. As you know, space debris has already caused significant damage to vital satellites; threatening communication, navigation, and systems essential for life on Earth. We have repair teams in orbit as we speak to fix these malfunctioning satellites, but they don't have enough supplies to get the job done.
 
 That's where you come in. These debris fields are full of the necessary resources we need to fix these satellites. Capture the debris, recycle it into usable resources, and deliver them to our satellite repair teams. 
 
-Debris fields are treacherous, and further damage will jeopardize future missions. Proceed with caution, our success is essential to the future of space exploration.
+Debris fields are treacherous, and additional damage will jeopardize future missions. Proceed with caution, our success is essential to the future of space exploration.
 
 # Components
 ![](../attachments/components.png)
@@ -97,9 +97,14 @@ Debris fields are treacherous, and further damage will jeopardize future mission
 3. Place the drawn Satellite cards, on the malfunctioning side, under the Satellite Tracker
 4. Players choose (or randomly choose) 1 Satellite card to flip to the operational side
 5. Place the Satellite HP Tracker token on each Satellite card under the 4 HP mark  
+
+# Objective 
+
+Flip all Satellites to their operational side by delivering resources to malfunction satellites.
+
 # Order of Play
 
-The player who last looked at the night sky goes first, and play continues to the left. On every turn do the following three things in order.
+The player who last looked at the night sky goes first, and play continues to the left. On every turn do the following three things in order:
 1. Take up to 4 actions
 2. Draw Debris cards
 3. Orbit around Earth
