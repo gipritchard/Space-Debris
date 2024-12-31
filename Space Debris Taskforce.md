@@ -221,34 +221,42 @@ Opperational satellites offer powerful teamwide bonuses and may unlock additiona
 
 ### Satellite 1
 TODO
+
 Repair Cost: W Fuel, X Electronics, Y Plastic, Z Metal
 
 ### Satellite 2
 TODO
+
 Repair Cost: W Fuel, X Electronics, Y Plastic, Z Metal
 
 ### Satellite 3
 TODO
+
 Repair Cost: W Fuel, X Electronics, Y Plastic, Z Metal
 
 ### Satellite 4
 TODO
+
 Repair Cost: W Fuel, X Electronics, Y Plastic, Z Metal
 
 ### Satellite 5
 TODO
+
 Repair Cost: W Fuel, X Electronics, Y Plastic, Z Metal
 
 ### Satellite 6
 TODO
+
 Repair Cost: W Fuel, X Electronics, Y Plastic, Z Metal
 
 ### Satellite 7
 TODO
+
 Repair Cost: W Fuel, X Electronics, Y Plastic, Z Metal
 
 ### Satellite 8
 TODO
+
 Repair Cost: W Fuel, X Electronics, Y Plastic, Z Metal
 
 ## Hand Limit
@@ -287,8 +295,9 @@ For each Resource card discarded from a player's hand, add Debris to adjacent sp
 **Example**: Caitlin has 3 cards in hand, and chooses to recycle 4 Debris on her Space Ship. She draws 4 Resource cards and now has 7 total cards in hand. Caitlin must now choose any 2 cards in hand to discard. After discarding 2 cards, she takes 2 Debris from the supply and places them amongst adjacent spaces with the fewest game pieces.
 
 # Glossary
-*Adjacent* - Spaces are considered adjacent if they are connected by a dotted line.
-*Game Piece* - Debris, Satellites, Space Ships
+**Adjacent** - Spaces are considered adjacent if they are connected by a dotted line.
+
+**Game Piece** - Debris, Satellites, Space Ships
 
 # Credits
 
