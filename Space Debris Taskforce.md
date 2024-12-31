@@ -115,7 +115,9 @@ On your turn you may take up to 4 actions, in any order. You may take the same a
 ### Capture Debris
 ![](../attachments/action_capture_example.jpg)
 - Move 1 Debris from an adjacent space onto your Space Ship card
+
 OR
+
 - Move any number of Debris from your space onto your Space Ship card
 	- Space Ships can carry Debris up to their capacity. A Space Ship's capacity starts at 5, and may be upgraded via other actions.
 
@@ -139,14 +141,18 @@ At any malfunctioning Satellite space, you may...
 ![](../attachments/action_repair_example.jpg)
 At any Satellite space, you may...
 - Increase any Space Ship's health by 1 HP, up to the maximum
+
 OR
+
 - Increase a Satellite's health by 1 HP, up to the maximum
 
 ### Exchange Resource
 ![](../attachments/action_exchange_example.jpg)
 While sharing a space with another player, you may...
 - Give 1 Resource card to the other player
+
 OR
+
 - Take 1 Resource card from another player
 See the "Hand Limit" section for restrictions.
 
@@ -161,7 +167,7 @@ You may play a Resource card for it's effect. Place the Resource card in the Res
 #### Metal
 - When played: fully repair 1 Space Ship or 1 Satellite in your space.
 #### Junk
--  This is a wild resource (fuel, electronics, plastic, metal) used during a Repair action.
+- This is a wild resource (fuel, electronics, plastic, metal) used during a Deliver action.
 - Cannot be played as an action.
 
 ## 2. Draw Debris Cards
@@ -220,44 +226,36 @@ Satellites can be in two states; malfunctioning and opperational. Malfunctioning
 Opperational satellites offer powerful teamwide bonuses and may unlock additional actions. Prioritize which satellites should be fixed first to maximize your team's chance for success.
 
 ### Satellite 1
-TODO
-
-Repair Cost: W Fuel, X Electronics, Y Plastic, Z Metal
+- TODO
+- Repair Cost: W Fuel, X Electronics, Y Plastic, Z Metal
 
 ### Satellite 2
-TODO
-
-Repair Cost: W Fuel, X Electronics, Y Plastic, Z Metal
+- TODO
+- Repair Cost: W Fuel, X Electronics, Y Plastic, Z Metal
 
 ### Satellite 3
-TODO
-
-Repair Cost: W Fuel, X Electronics, Y Plastic, Z Metal
+- TODO
+- Repair Cost: W Fuel, X Electronics, Y Plastic, Z Metal
 
 ### Satellite 4
-TODO
-
-Repair Cost: W Fuel, X Electronics, Y Plastic, Z Metal
+- TODO
+- Repair Cost: W Fuel, X Electronics, Y Plastic, Z Metal
 
 ### Satellite 5
-TODO
-
-Repair Cost: W Fuel, X Electronics, Y Plastic, Z Metal
+- TODO
+- Repair Cost: W Fuel, X Electronics, Y Plastic, Z Metal
 
 ### Satellite 6
-TODO
-
-Repair Cost: W Fuel, X Electronics, Y Plastic, Z Metal
+- TODO
+- Repair Cost: W Fuel, X Electronics, Y Plastic, Z Metal
 
 ### Satellite 7
-TODO
-
-Repair Cost: W Fuel, X Electronics, Y Plastic, Z Metal
+- TODO
+- Repair Cost: W Fuel, X Electronics, Y Plastic, Z Metal
 
 ### Satellite 8
-TODO
-
-Repair Cost: W Fuel, X Electronics, Y Plastic, Z Metal
+- TODO
+- Repair Cost: W Fuel, X Electronics, Y Plastic, Z Metal
 
 ## Hand Limit
 Players have a hand limit of 5 Resource cards. If you ever have 6 or more cards in hand, you must immediately choose & discard the excess Resource cards to the Resource discard pile.
@@ -303,7 +301,7 @@ For each Resource card discarded from a player's hand, add Debris to adjacent sp
 
 - Game Design: Alex Pritchard
 - Play Testers: 
-	- Caitlin, John, Julie, Austin, Samantha
+	- Caitlin, John, Julie, Austin, Samantha, Deb, Fred
 - Game Assets
 	- [Kenny] under [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 		- https://kenney.nl/assets/board-game-icons
