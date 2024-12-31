@@ -1,7 +1,7 @@
 2-4 Players | Age 13 and up | 60-90 Minutes
 # Objective
 
-Team, our mission is critical and the stakes are high. As you know, space debris has already caused significant damage to vital satellites; threatening communication, navigation, and weather systems essential for life on Earth. We have repair teams in orbit as we speak to fix these damaged satellites, but they don't have enough supplies to get the job done.
+Team, our mission is critical and the stakes are high. As you know, space debris has already caused significant damage to vital satellites; threatening communication, navigation, and systems essential for life on Earth. We have repair teams in orbit as we speak to fix these damaged satellites, but they don't have enough supplies to get the job done.
 
 That's where you come in. These debris fields are full of the necessary resources we need to fix these satellites. Capture the debris, recycle it into usable resources, and deliver them to our satellite repair teams. 
 
@@ -153,7 +153,7 @@ See the "Hand Limit" section for restrictions.
 ### Play Resource Card
 You may play a Resource card for it's effect. Place the Resource card in the Resource discard pile after resolving it's effect.
 #### Fuel
-- When played: move your pawn twice, ignoring damage from Debris.
+- When played: move your pawn 3 spaces, ignoring damage from Debris.
 #### Electronics
 - When played: capture any number of Debris from 1 adjacent space.
 #### Plastic
@@ -212,11 +212,48 @@ The final step of a player's turn is rotating the High Earth Orbit and Low Earth
 - Rotate the High Earth Orbit (HEO) board with all pieces on it, 90° clockwise
 - Rotate the Low Earth Orbit (LEO) board with all pieces on it, 180° clockwise
 
-Play passes to the player on the left.
+This is the end of the currnet player's turn. Play passes to the player on the left.
+
 ## Satellites
+Satellites can be in two states; malfunctioning and opperational. Malfunctioning satellites do not provide any team bonuses. They need all required resources to become opperational. Once all required resources have been delievered, flip the satellite card to its opperational side.
+
+Opperational satellites offer powerful teamwide bonuses and may unlock additional actions. Prioritize which satellites should be fixed first to maximize your team's chance for success.
+
+### Satellite 1
 TODO
+Repair Cost: W Fuel, X Electronics, Y Plastic, Z Metal
+
+### Satellite 2
+TODO
+Repair Cost: W Fuel, X Electronics, Y Plastic, Z Metal
+
+### Satellite 3
+TODO
+Repair Cost: W Fuel, X Electronics, Y Plastic, Z Metal
+
+### Satellite 4
+TODO
+Repair Cost: W Fuel, X Electronics, Y Plastic, Z Metal
+
+### Satellite 5
+TODO
+Repair Cost: W Fuel, X Electronics, Y Plastic, Z Metal
+
+### Satellite 6
+TODO
+Repair Cost: W Fuel, X Electronics, Y Plastic, Z Metal
+
+### Satellite 7
+TODO
+Repair Cost: W Fuel, X Electronics, Y Plastic, Z Metal
+
+### Satellite 8
+TODO
+Repair Cost: W Fuel, X Electronics, Y Plastic, Z Metal
+
 ## Hand Limit
-Players have a hand limit of 5 Resource cards. If you ever have 6 or more cards in hand, you must immediately choose & discard the excess Resource cards to the Resource discard pile. 
+Players have a hand limit of 5 Resource cards. If you ever have 6 or more cards in hand, you must immediately choose & discard the excess Resource cards to the Resource discard pile.
+
 ## When The Resource Deck Runs Out
 Immediately shuffle the Resource discard pile and stack the cards face down to form a new Resource deck. If this happens in the middle of a turn, continue to draw Resource cards as necessary from the new pile.
 
@@ -225,26 +262,33 @@ Immediately shuffle the Resource discard pile and stack the cards face down to f
 ## Victory
 Players are victorious if any of the following conditions are met:
 - All Satellite cards are flipped to their operational side
+
 ## Defeat
 Players are defeated if any of the following conditions are met:
-- Any player's Space Ship reaches 0 HP
+- Any player Space Ship reaches 0 HP
 - Any Satellite reaches 0 HP
-- You run out of Debris to place on the map
+- The Debris supply is empty AND players must place more debris in orbit
 - Any player must place Debris on an adjacent space AND all adjacent spaces contain 3 Debris
 
 # Optional Advanced Rules
 Players looking for a more challenging experience may choose to play with any (or all) of the following rules/restrictions. This is not recommended for your first few games.
+
 ## Satellites in Peril
 During initial game set up, do not flip any malfunctioning satellites to their operational side 
+
+## Identified Debris
+During initial game set up, remove all Junk cards from the Debris deck
+
 ## Excess Resources become Debris
 For each Resource card discarded from a player's hand, add Debris to adjacent space(s) with the fewest game pieces (Space Ships, Satellite, Debris). 
 - All Space Ships and Satellites in spaces that receive Debris take 1 damage
 - If there is a tie for fewest game pieces, the discarding player chooses.
-- If the player is surrounded on all sides by spaces that contain 3 Debris Cubes, your team is defeated.
-**Example 1**: Caitlin has 3 cards in hand, and chooses to recycle 4 debris on her Space Ship. She draws 4 Resource cards and now has 7 total cards in hand. Caitlin must now choose any 2 cards in hand to discard. After discarding 2 cards, she takes 2 Debris from the supply and places them amongst adjacent spaces with the fewest game pieces. 
+- If the player is surrounded on all sides by spaces that contain 3 Debris, your team is defeated.
+**Example**: Caitlin has 3 cards in hand, and chooses to recycle 4 Debris on her Space Ship. She draws 4 Resource cards and now has 7 total cards in hand. Caitlin must now choose any 2 cards in hand to discard. After discarding 2 cards, she takes 2 Debris from the supply and places them amongst adjacent spaces with the fewest game pieces.
 
 # Glossary
-TODO
+*Adjacent* - Spaces are considered adjacent if they are connected by a dotted line.
+*Game Piece* - Debris, Satellites, Space Ships
 
 # Credits
 
