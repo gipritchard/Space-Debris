@@ -290,6 +290,7 @@ For each Resource card discarded from a player's hand, add Debris to adjacent sp
 - All Space Ships and Satellites in spaces that receive Debris take 1 damage
 - If there is a tie for fewest game pieces, the discarding player chooses.
 - If the player is surrounded on all sides by spaces that contain 3 Debris, your team is defeated.
+
 **Example**: Caitlin has 3 cards in hand, and chooses to recycle 4 Debris on her Space Ship. She draws 4 Resource cards and now has 7 total cards in hand. Caitlin must now choose any 2 cards in hand to discard. After discarding 2 cards, she takes 2 Debris from the supply and places them amongst adjacent spaces with the fewest game pieces.
 
 # Glossary
