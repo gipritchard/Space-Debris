@@ -286,7 +286,7 @@ During initial game set up, do not flip any malfunctioning satellites to their o
 During initial game set up, remove all Junk cards from the Debris deck
 
 ## Excess Resources become Debris
-For each Resource card discarded from a player's hand, add Debris to adjacent space(s) with the fewest game pieces (Space Ships, Satellite, Debris). 
+For each Resource card discarded from a player's hand, add Debris to adjacent space(s) with the fewest game pieces. 
 - All Space Ships and Satellites in spaces that receive Debris take 1 damage
 - If there is a tie for fewest game pieces, the discarding player chooses.
 - If the player is surrounded on all sides by spaces that contain 3 Debris, your team is defeated.
