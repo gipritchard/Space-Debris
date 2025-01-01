@@ -3,7 +3,7 @@
 
 Team, our mission is critical and the stakes are high. As you know, space debris has already caused significant damage to vital satellites; threatening communication, navigation, and systems essential for life on Earth. We have repair teams in orbit as we speak to fix these malfunctioning satellites, but they don't have enough supplies to get the job done.
 
-That's where you come in. These debris fields are full of the necessary resources we need to fix these satellites. Capture the debris, recycle it into usable resources, and deliver them to our satellite repair teams. 
+That's where you come in. These debris fields are full of the necessary resources we need to fix our satellites. Capture the debris, recycle it into usable resources, and deliver them to our satellite repair teams. 
 
 Debris fields are treacherous, and additional damage will jeopardize future missions. Proceed with caution, our success is essential to the future of space exploration.
 
@@ -100,7 +100,7 @@ Debris fields are treacherous, and additional damage will jeopardize future miss
 
 # Objective 
 
-Flip all Satellites to their operational side by delivering resources to malfunction satellites.
+Flip all satellites to their operational side by delivering resources to malfunction satellites.
 
 # Order of Play
 
@@ -114,7 +114,7 @@ On your turn you may take up to 4 actions, in any order. You may take the same a
 
 ### Move
 ![](../attachments/action_move_example.jpg)
-- Move your player pawn 2 space following dotted lines. Players may share a space with other players and/or a satellite.
+- Move your player pawn 2 spaces following dotted lines. You may share a space with other Space Ships, Satellites, or Debris.
   - If the space you move into contains any Debris, your Space Ship takes 1 point of damage.
 
 ### Capture Debris
