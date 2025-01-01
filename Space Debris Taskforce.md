@@ -129,27 +129,28 @@ OR
 ### Recycle
 ![](../attachments/action_recycle_example.jpg)
 - Move any number of Debris from your Space Ship card back to the supply. Draw that number of Resource cards.
+
 See the "Hand Limit" section for restrictions. 
 
 ### Deliver
 ![](../attachments/action_maintenance_example.jpg)
 At any malfunctioning Satellite space, you may...
-- Place any number of Resource cards from your hand next to the associated Satellite card matching the required resources
+- Place any number of Resource cards from your hand next to the associated Satellite card that match the required resources
 - If all required resources have been delivered to a Satellite...
 	- Move all Resource cards on the Satellite to the Resource discard pile
-	- Flip the associated Satellite card from the malfunctioning side to the operational side
-	- Set that Satellite's HP tracker to the maximum value
+	- Flip the Satellite card from the malfunctioning side to the operational side
+	- Set the Satellite's HP tracker to the maximum value
 	- Your team now has access to the Satellite's team bonus
 - If all Satellite cards are on the repaired side, you win!
 
 ### Repair
 ![](../attachments/action_repair_example.jpg)
 At any Satellite space, you may...
-- Increase any Space Ship's health by 1 HP, up to the maximum
+- Increase any Space Ship's health by 1 HP, up to the maximum value
 
 OR
 
-- Increase a Satellite's health by 1 HP, up to the maximum
+- Increase a Satellite's health by 1 HP, up to the maximum value 
 
 ### Exchange Resource
 ![](../attachments/action_exchange_example.jpg)
@@ -159,12 +160,13 @@ While sharing a space with another player, you may...
 OR
 
 - Take 1 Resource card from another player
+
 See the "Hand Limit" section for restrictions.
 
 ### Play Resource Card
 You may play a Resource card for it's effect. Place the Resource card in the Resource discard pile after resolving it's effect.
 #### Fuel
-- When played: move your pawn 3 spaces, ignoring damage from Debris.
+- When played: move your pawn 3 spaces, ignore damage from Debris.
 #### Electronics
 - When played: capture any number of Debris from 1 adjacent space.
 #### Plastic
@@ -176,7 +178,7 @@ You may play a Resource card for it's effect. Place the Resource card in the Res
 - Cannot be played as an action.
 
 ## 2. Draw Debris Cards
-Each space on the game board is limited to 3 Debris. As Debris accumulates in a space, the risk of a collision and fragmentation rises.   
+Each space is limited to 3 Debris. As Debris accumulates in a space, the risk of a collision and fragmentation rises.   
 
 Look at the Collision tracker on the game board. This indicates the number of cards to draw from the Debris deck, and the quantity of Debris to place at a location.
 ![](../attachments/debris_example.jpg)
@@ -232,31 +234,31 @@ Opperational satellites offer powerful teamwide bonuses and may unlock additiona
 
 ### Satellite 1
 - TODO
-- Repair Cost: W Fuel, X Electronics, Y Plastic, Z Metal
+- Repair Cost: 3 Fuel, 3 Electronics, 1 Plastic, 1 Metal
 
 ### Satellite 2
 - TODO
-- Repair Cost: W Fuel, X Electronics, Y Plastic, Z Metal
+- Repair Cost: 1 Fuel, 3 Electronics, 3 Plastic, 1 Metal
 
 ### Satellite 3
 - TODO
-- Repair Cost: W Fuel, X Electronics, Y Plastic, Z Metal
+- Repair Cost: 1 Fuel, 1 Electronics, 3 Plastic, 3 Metal
 
 ### Satellite 4
 - TODO
-- Repair Cost: W Fuel, X Electronics, Y Plastic, Z Metal
+- Repair Cost: 3 Fuel, 1 Electronics, 1 Plastic, 3 Metal
 
 ### Satellite 5
 - TODO
-- Repair Cost: W Fuel, X Electronics, Y Plastic, Z Metal
+- Repair Cost: 2 Fuel, 2 Electronics, 2 Plastic, 2 Metal
 
 ### Satellite 6
 - TODO
-- Repair Cost: W Fuel, X Electronics, Y Plastic, Z Metal
+- Repair Cost: 4 Fuel, 4 Electronics, 0 Plastic, 0 Metal
 
 ### Satellite 7
 - TODO
-- Repair Cost: W Fuel, X Electronics, Y Plastic, Z Metal
+- Repair Cost: 0 Fuel, 0 Electronics, 4 Plastic, 4 Metal
 
 ### Satellite 8
 - TODO
@@ -291,10 +293,10 @@ During initial game set up, do not flip any malfunctioning satellites to their o
 During initial game set up, remove all Junk cards from the Debris deck
 
 ## Excess Resources become Debris
-For each Resource card discarded from a player's hand, add Debris to adjacent space(s) with the fewest game pieces. 
+For each Resource card discarded from a player's hand because of hand limit restrictions, add Debris to adjacent space(s) with the fewest game pieces. 
 - All Space Ships and Satellites in spaces that receive Debris take 1 damage
 - If there is a tie for fewest game pieces, the discarding player chooses.
-- If the player is surrounded on all sides by spaces that contain 3 Debris, your team is defeated.
+- If the player must place Debris on an adjacent space AND all adjacent spaces contain 3 Debris, your team is defeated.
 
 **Example**: Caitlin has 3 cards in hand, and chooses to recycle 4 Debris on her Space Ship. She draws 4 Resource cards and now has 7 total cards in hand. Caitlin must now choose any 2 cards in hand to discard. After discarding 2 cards, she takes 2 Debris from the supply and places them amongst adjacent spaces with the fewest game pieces.
 
