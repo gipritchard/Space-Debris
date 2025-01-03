@@ -171,9 +171,9 @@ See the "Hand Limit" section for restrictions.
 ### Play Resource Card
 You may play a Resource card for it's effect. Place the Resource card in the Resource discard pile after resolving it's effect.
 #### Fuel
-- When played: move your pawn 3 spaces, ignore damage from Debris.
+- When played: move your pawn 3 spaces, ignore damage from debris.
 #### Electronics
-- When played: capture any number of Debris from 1 adjacent space.
+- When played: capture any number of debris from 1 adjacent space.
 #### Plastic
 - When played: upgrade your Space Ship's Debris Capacity by 1, up to a maximum of 10.
 #### Metal
@@ -331,11 +331,16 @@ For each Resource card discarded from a player's hand because of hand limit rest
 	- [Delapouite](https://delapouite.com) under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/)
 		- https://game-icons.net/1x1/delapouite/beam-satellite.html
 		- https://game-icons.net/1x1/delapouite/defense-satellite.html
+		- https://game-icons.net/1x1/delapouite/cpu.html
+		- https://game-icons.net/1x1/delapouite/flat-platform.html
+		- https://game-icons.net/1x1/delapouite/jerrycan.html
 	- [Lorc](https://lorcblog.blogspot.com) under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/)
 		- https://game-icons.net/1x1/lorc/spoutnik.html
 		- https://game-icons.net/1x1/lorc/sattelite.html
 		- https://game-icons.net/1x1/lorc/pawn.html
 		- https://game-icons.net/1x1/lorc/cogsplosion.html
+		- https://game-icons.net/1x1/lorc/tread.html
+		- https://game-icons.net/1x1/lorc/metal-bar.html
 	- [Screaming Brain Studios](https://screamingbrainstudios.itch.io/) under [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 		- https://screamingbrainstudios.itch.io/seamless-space-backgrounds
 	- [Helianthus Games](https://helianthus-games.itch.io/) under UNSPECIFIED "Credit not required"
