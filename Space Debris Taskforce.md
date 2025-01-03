@@ -119,11 +119,11 @@ On your turn you may take up to 4 actions, in any order. You may take the same a
 
 ### Capture Debris
 ![](../attachments/action_capture_example.jpg)
-- Move 1 Debris from an adjacent space onto your Space Ship card
+- Move 1 Debris from an adjacent space onto your Space Ship card. Spaces are considered adjacent if they are connected by a dotted line.
 
 OR
 
-- Move any number of Debris from your space onto your Space Ship card
+- Move any number of Debris from your space onto your Space Ship card.
 	- Space Ships can carry Debris up to their capacity. A Space Ship's capacity starts at 5, and may be upgraded via other actions.
 
 ### Recycle
@@ -290,7 +290,7 @@ Players looking for a more challenging experience may choose to play with any (o
 During initial game set up, do not flip any malfunctioning satellites to their operational side 
 
 ## Identified Debris
-During initial game set up, remove all Junk cards from the Debris deck
+During initial game set up, remove all Junk cards from the Resource deck
 
 ## Excess Resources become Debris
 For each Resource card discarded from a player's hand because of hand limit restrictions, add Debris to adjacent space(s) with the fewest game pieces. 
@@ -310,6 +310,10 @@ For each Resource card discarded from a player's hand because of hand limit rest
 **Passive** - An ongoing effect that costs 0 resources to use.
 
 **Resource** - Electronics, Fuel, Plastic, Metal, Junk.
+
+# FAQs
+
+[Space Reserved]
 
 # Credits
 
