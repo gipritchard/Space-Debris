@@ -178,7 +178,7 @@ You may play a Resource card for it's effect. Place the Resource card in the Res
 - Cannot be played as an action.
 
 ## 2. Draw Debris Cards
-Each space is limited to 3 Debris. As Debris accumulates in a space, the risk of a collision and fragmentation rises.   
+Each space is limited to 3 Debris. As Debris accumulates in a space, the risk of a collision and fragmentation rises.
 
 Look at the Collision tracker on the game board. This indicates the number of cards to draw from the Debris deck, and the quantity of Debris to place at a location.
 ![](../attachments/debris_example.jpg)
@@ -220,49 +220,49 @@ Look at the Collision tracker on the game board. This indicates the number of ca
 	- If at any point, every adjacent space has 3 Debris and you have more Debris to place, you are defeated.
 
 ## 3. Orbit Around Earth
-The final step of a player's turn is rotating the High Earth Orbit and Low Earth Orbit boards. Only perform this step if neither of these game boards rotated during the current player's turn.
+The final step of a player's turn is rotating the High Earth Orbit and Low Earth Orbit boards.
 ![](../attachments/orbit_example.jpg)
 - Rotate the High Earth Orbit (HEO) board with all pieces on it, 90° clockwise
-- Rotate the Low Earth Orbit (LEO) board with all pieces on it, 180° clockwise
+- Rotate the Low Earth Orbit (LEO) board with all pieces on it, an additional 90° clockwise
 
 This is the end of the currnet player's turn. Play passes to the player on the left.
 
 ## Satellites
 Satellites can be in two states; malfunctioning and opperational. Malfunctioning satellites do not provide any team bonuses. They need all required resources to become opperational. Once all required resources have been delievered, flip the satellite card to its opperational side.
 
-Opperational satellites offer powerful teamwide bonuses and may unlock additional actions. Prioritize which satellites should be fixed first to maximize your team's chance for success.
+Opperational satellites offer powerful teamwide bonuses, one time benefits, or unlock additional actions. Prioritize which satellite should be fixed first to maximize your team's chance for success.
 
-### Satellite 1
-- TODO
-- Repair Cost: 3 Fuel, 3 Electronics, 1 Plastic, 1 Metal
-
-### Satellite 2
-- TODO
-- Repair Cost: 1 Fuel, 3 Electronics, 3 Plastic, 1 Metal
-
-### Satellite 3
-- TODO
-- Repair Cost: 1 Fuel, 1 Electronics, 3 Plastic, 3 Metal
-
-### Satellite 4
-- TODO
+### Armor Plating
 - Repair Cost: 3 Fuel, 1 Electronics, 1 Plastic, 3 Metal
+- Passive: Moving into a space with 2 or less debris deals 0 damage.
 
-### Satellite 5
-- TODO
+### Automation
+- Repair Cost: 1 Fuel, 1 Electronics, 3 Plastic, 3 Metal
+- Passive: Recycle is a free action. It does not count toward your 4 action limit. 
+
+### Debris Forecast
 - Repair Cost: 2 Fuel, 2 Electronics, 2 Plastic, 2 Metal
+- Passive: Your team may play with the top card of the debris deck face up.
 
-### Satellite 6
-- TODO
-- Repair Cost: 4 Fuel, 4 Electronics, 0 Plastic, 0 Metal
-
-### Satellite 7
-- TODO
+### Extra Storage
 - Repair Cost: 0 Fuel, 0 Electronics, 4 Plastic, 4 Metal
+- When flipped to opperational: Upgrade all players' Space Ship Debris Capacity by 2, up to a max of 10.
 
-### Satellite 8
-- TODO
-- Repair Cost: W Fuel, X Electronics, Y Plastic, Z Metal
+### Gravity Assist
+- Repair Cost: 1 Fuel, 3 Electronics, 3 Plastic, 1 Metal
+- Action: Once per turn; perform "Orbit Around Earth". Skip your end of turn "Orbit Around Earth" step. 
+
+### Onboard Boosters
+- Repair Cost: 4 Fuel, 4 Electronics, 0 Plastic, 0 Metal
+- Action: Once per turn; move any satellite to an adjacent empty space.
+
+### Orbital Decay
+- Repair Cost: 0 Fuel, 4 Electronics, 4 Plastic, 0 Metal
+- When flipped to opperational: Remove 1 debris from all spaces that share this satellite's orbit.
+
+### Rendezvous
+- Repair Cost: 3 Fuel, 3 Electronics, 1 Plastic, 1 Metal
+- Action: Once per turn; move your pawn to another pawn's space.
 
 ## Hand Limit
 Players have a hand limit of 5 Resource cards. If you ever have 6 or more cards in hand, you must immediately choose & discard the excess Resource cards to the Resource discard pile.
@@ -303,7 +303,13 @@ For each Resource card discarded from a player's hand because of hand limit rest
 # Glossary
 **Adjacent** - Spaces are considered adjacent if they are connected by a dotted line.
 
-**Game Piece** - Debris, Satellites, Space Ships
+**Empty** - A space with 0 game pieces.
+
+**Game Piece** - Debris, Satellites, Space Ships.
+
+**Passive** - An ongoing effect that costs 0 resources to use.
+
+**Resource** - Electronics, Fuel, Plastic, Metal, Junk.
 
 # Credits
 
@@ -311,7 +317,7 @@ For each Resource card discarded from a player's hand because of hand limit rest
 - Play Testers: 
 	- Caitlin, John, Julie, Austin, Samantha, Deb, Fred
 - Game Assets
-	- [Kenny] under [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+	- [Kenny](https://kenney.nl/) under [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 		- https://kenney.nl/assets/board-game-icons
 	- [Delapouite](https://delapouite.com) under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/)
 		- https://game-icons.net/1x1/delapouite/beam-satellite.html
@@ -322,3 +328,7 @@ For each Resource card discarded from a player's hand because of hand limit rest
 		- https://game-icons.net/1x1/lorc/pawn.html
 		- https://game-icons.net/1x1/lorc/cogsplosion.html
 	- TODO - Space background
+
+
+TODO - Threat Track, component, rules, increase+decrease
+TODO - Update Step 2 of turn to reflect updated state of play
