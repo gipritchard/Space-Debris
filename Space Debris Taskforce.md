@@ -84,6 +84,7 @@ Debris fields are treacherous, and additional damage will jeopardize future miss
 10. Draw 3 cards, place 2 Debris at these locations
 11. Draw 3 cards, place 1 Debris at these locations
 12. Each player, place your pawn on an empty space adjacent to a satellite OR on a satellite with no other pawns
+	1. Spaces are considered adjacent if they are connected by a dotted line.
 13. Shuffle all debris cards and debris fragmentation cards together into a single Debris deck
 14. Place the Collision Token on the GSO game board on the indicated starting space.
 15. Place the Debris deck face down near the game board
@@ -335,7 +336,10 @@ For each Resource card discarded from a player's hand because of hand limit rest
 		- https://game-icons.net/1x1/lorc/sattelite.html
 		- https://game-icons.net/1x1/lorc/pawn.html
 		- https://game-icons.net/1x1/lorc/cogsplosion.html
-	- TODO - Space background
+	- [Screaming Brain Studios](https://screamingbrainstudios.itch.io/) under [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+		- https://screamingbrainstudios.itch.io/seamless-space-backgrounds
+	- [Helianthus Games](https://helianthus-games.itch.io/) under UNSPECIFIED "Credit not required"
+		- https://helianthus-games.itch.io/pixel-art-planets
 
 
 TODO - Threat Track, component, rules, increase+decrease
