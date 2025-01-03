@@ -83,7 +83,7 @@ Debris fields are treacherous, and additional damage will jeopardize future miss
 9. Draw 3 cards, place 3 Debris at these locations
 10. Draw 3 cards, place 2 Debris at these locations
 11. Draw 3 cards, place 1 Debris at these locations
-12. Each player, place your pawn on a satellite or an empty space adjacent to a satellite
+12. Each player, place your pawn on an empty space adjacent to a satellite OR on a satellite with no other pawns
 13. Shuffle all debris cards and debris fragmentation cards together into a single Debris deck
 14. Place the Collision Token on the GSO game board on the indicated starting space.
 15. Place the Debris deck face down near the game board
