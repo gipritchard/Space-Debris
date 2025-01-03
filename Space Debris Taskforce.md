@@ -141,16 +141,20 @@ At any malfunctioning Satellite space, you may...
 	- Flip the Satellite card from the malfunctioning side to the operational side
 	- Set the Satellite's HP tracker to the maximum value
 	- Your team now has access to the Satellite's team bonus
-- If all Satellite cards are on the repaired side, you win!
+- If all Satellite cards are on the operational side, you win!
 
 ### Repair
 ![](../attachments/action_repair_example.jpg)
 At any Satellite space, you may...
-- Increase any Space Ship's health by 1 HP, up to the maximum value
+- Increase your Space Ship's health by 1 HP.
 
 OR
 
-- Increase a Satellite's health by 1 HP, up to the maximum value 
+- Increase the Satellite's health by 1 HP.
+
+OR
+
+- Incrase a teammate's Space Ship's health by 1 HP, if they are also in your space.
 
 ### Exchange Resource
 ![](../attachments/action_exchange_example.jpg)
@@ -159,7 +163,7 @@ While sharing a space with another player, you may...
 
 OR
 
-- Take 1 Resource card from another player
+- Take 1 Resource card from the other player
 
 See the "Hand Limit" section for restrictions.
 
