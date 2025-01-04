@@ -113,8 +113,8 @@ On your turn you may take up to 4 actions, in any order. You may take the same a
 
 ### Move
 ![](../attachments/action_move_example.jpg)
-- Move your player pawn 2 spaces following dotted lines. You may share a space with other Spaceships, Satellites, or debris.
-  - If the space you move into contains any debris, your Spaceship takes 1 point of damage.
+- Move your player pawn up to 2 spaces following dotted lines. You may share a space with other Spaceships, Satellites, or debris.
+	- If the space you move into contains any debris, your Spaceship takes 1 point of damage.
 
 ### Capture Debris
 ![](../attachments/action_capture_example.jpg)
@@ -171,7 +171,7 @@ See the "Hand Limit" section for restrictions.
 ### Play Resource Card
 You may play a Resource card for its effect. Place the Resource card in the Resource discard pile after resolving its effect.
 #### Fuel
-- When played: move your pawn 3 spaces, ignore damage from debris.
+- When played: move your pawn up to 3 spaces, ignoring damage from debris.
 #### Electronics
 - When played: capture any number of debris from 1 adjacent space.
 #### Plastic
