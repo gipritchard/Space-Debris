@@ -118,12 +118,13 @@ On your turn you may take up to 4 actions, in any order. You may take the same a
 
 ### Capture Debris
 ![](../attachments/action_capture_example.jpg)
-- Move 1 debris from an adjacent space onto your Spaceship card. Spaces are considered adjacent if they are connected by a dotted line.
+- Move any number of debris from your space onto your Spaceship card.
 
 OR
 
-- Move any number of debris from your space onto your Spaceship card.
-	- Spaceships can carry debris up to their capacity. A Spaceship's capacity starts at 5, and may be upgraded via other actions.
+- Move 1 debris from an adjacent space onto your Spaceship card.
+
+Spaceships can carry debris up to their capacity. A Spaceship's capacity starts at 5, and may be upgraded via other actions.
 
 ### Recycle
 ![](../attachments/action_recycle_example.jpg)
