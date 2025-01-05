@@ -58,9 +58,9 @@ Debris fields are treacherous, and additional damage will jeopardize future miss
 
 1. Give each player a player aid card
 2. Give each player 1 pawn, 1 Spaceship card, 1 HP Tracker, 1 Debris capacity Tracker  
-3. Each player, place the Spaceship card face up on the table in front of them
-4. Each player, place the HP Tracker token on your Spaceship card under the 4 HP mark
-5. Each player, place the Debris Capacity Tracker on your Spaceship card under the 5 capacity mark  
+3. Each player, place the spaceship card face up on the table in front of them
+4. Each player, place the HP Tracker token on your spaceship card under the 4 HP mark
+5. Each player, place the Debris Capacity Tracker on your spaceship card under the 5 capacity mark  
 6. Shuffle all Resource cards into a single Resource deck
 7. Place the Resource deck face down near the game board
 8. Each player, draw 2 cards from the Resource deck and add them to your hand 
@@ -113,22 +113,22 @@ On your turn you may take up to 4 actions, in any order. You may take the same a
 ### Move
 ![](../attachments/action_move_example.jpg)
 - Move your pawn up to 2 spaces following dotted lines. 
-	- You may share a space with other Spaceships, Satellites, or debris.
-	- If the space you move into contains any debris, your Spaceship takes 1 point of damage.
+	- You may share a space with other pawns, satellites, or debris.
+	- If the space you move into contains any debris, your spaceship takes 1 point of damage.
 
 ### Capture Debris
 ![](../attachments/action_capture_example.jpg)
-- Move any number of debris from your space onto your Spaceship card.
+- Move any number of debris from your space onto your spaceship card.
 
 OR
 
-- Move 1 debris from an adjacent space onto your Spaceship card.
+- Move 1 debris from an adjacent space onto your spaceship card.
 
-Spaceships can carry debris up to their capacity. A Spaceship's capacity starts at 5, and may be upgraded via other actions.
+Spaceships carry debris up to their capacity. A spaceship's capacity starts at 5, and may be upgraded via other actions.
 
 ### Recycle
 ![](../attachments/action_recycle_example.jpg)
-- Move any number of debris from your Spaceship card back to the supply. Draw that number of Resource cards.
+- Move any number of debris from your spaceship card back to the supply. Draw that number of resource cards.
 	- If you recycle 5 or more debris in one action, decrease Threat by 1 space
 
 See the "Hand Limit" section for restrictions. 
@@ -148,15 +148,15 @@ At any malfunctioning Satellite space, you may...
 ### Repair
 ![](../attachments/action_repair_example.jpg)
 At any Satellite space, you may...
-- Increase your Spaceship's health by 1 HP.
+- Increase your spaceship's health by 1 HP.
 
 OR
 
-- Increase the Satellite's health by 1 HP.
+- Increase the satellite's health by 1 HP.
 
 OR
 
-- Increase a teammate's Spaceship's health by 1 HP, if they are also in your space.
+- Increase a teammate's spaceship's health by 1 HP, if they are also in your space.
 
 ### Exchange Resource
 ![](../attachments/action_exchange_example.jpg)
@@ -220,7 +220,7 @@ Each space is limited to 3 debris. As debris accumulates, the risk of a _collisi
 - All spaceships in this space take 1 damage
 - Any satellite in this space takes 1 damage AND Threat increases by 1 space
 - Add debris to this space
-	- If the space contains more than 3 debris, then a <i>collision</i> has occurred. See the Collisions section below.
+	- If the space contains more than 3 debris, then a <i>collision</i> has occurred. See the Collision section below.
 - Discard this card
 
 **Example 1**: Michael has a facedown orbit card in front of him with 1 debris on it. He flips it face up, and finds that space on the game board. The space is empty. Michael places the 1 debris from the card onto that space. Finally, he discards the orbit card.
@@ -236,12 +236,16 @@ Each space is limited to 3 debris. As debris accumulates, the risk of a _collisi
 
 **Example**: TODO
 
-### Collisions
-![](../attachments/collision_example1.jpg)
-![](../attachments/collision_example2.jpg)
+### Collision
+Collisions occur when a space contains more than 3 debris. This knocks excess debris into an adjacent space with the fewest game pieces (Debris, Spaceships, Satellites). Its possible for a collision to cause a chain reaction if debris accumulation goes unchecked. When a collision occurs, perform the following steps in order:
+
 - Increase Threat by 1 space
-- Place excess debris in an adjacent space with the fewest game pieces (Debris, Spaceships, Satellites)
+- Place excess debris in an adjacent space with the fewest game pieces 
+	- If there is a tie for fewest game pieces, the current player chooses.
 	- If at any point, every adjacent space has 3 Debris and you have more debris to place, you are defeated.
+
+![](../attachments/collision_example1.jpg)
+**Example**: Alex must add 2 debris to a space that contains 3 debris. This causes a collision. Alex increases Threat by 1. Next, he looks at all adjacent spaces. The left space contains 1 pawn, the right space contains 1 debris, and the space below contains a satellite and 1 pawn. The left space and right space are tied for fewest game pieces, Alex can choose between them. Alex chooses the right space, and places 2 debris into that space.
 
 ## 4. Orbit Around Earth
 The final step of a player's turn is rotating the High Earth Orbit and Low Earth Orbit boards.
@@ -276,7 +280,7 @@ Operational satellites offer powerful teamwide bonuses, one time benefits, or un
 
 ### Extra Storage
 - Repair Cost: 0 Fuel, 0 Electronics, 4 Plastic, 4 Metal
-- When flipped to operational: Upgrade all players' Spaceship debris capacity by 2.
+- When flipped to operational: Upgrade all players' spaceship debris capacity by 2.
 
 ### Gravity Assist
 - Repair Cost: 1 Fuel, 3 Electronics, 3 Plastic, 1 Metal
