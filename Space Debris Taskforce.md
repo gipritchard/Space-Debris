@@ -14,12 +14,19 @@ Debris fields are treacherous, and additional damage will jeopardize future miss
 	- 1 Low Earth Orbit (LEO)
 	- 1 High Earth Orbit (HEO)
 	- 1 Geostationary Orbit (GSO)
+- Threat pieces
+	- 1 Threat Track
+	- 1 Threat Marker
 - Player pieces
 	- 4 Pawns
 	- 4 Ship cards
 	- 4 Spaceship HP Trackers
 	- 4 Spaceship Debris Capacity Trackers
 	- 4 Player aids
+- Satellite pieces
+	- 4 Satellite tokens
+	- 8 Double sided Satellite cards
+	- 4 Satellite HP Trackers
 - 52 card Resource Deck
 	- 10 Fuel cards
 	- 10 Electronics cards
@@ -32,11 +39,6 @@ Debris fields are treacherous, and additional damage will jeopardize future miss
 	- 16 Geostationary Orbit cards
 	- 4 Fragmentation cards
 - 50 Debris cubes
-- 1 Threat Marker
-- Satellite pieces
-	- 4 Satellite tokens
-	- 8 Double sided Satellite cards
-	- 4 Satellite HP Trackers
 
 # Set Up
 ![](../attachments/set_up_complete_example.jpg)
@@ -51,6 +53,8 @@ Debris fields are treacherous, and additional damage will jeopardize future miss
 2. Stack the High Earth Orbit (HEO) game board on top of the GSO game board
 3. Stack the Low Earth Orbit (LEO) game board on top of the HEO game board
 4. Align GSO, HEO, LEO, & Earth arrows as shown in the picture above
+5. Place the Threat Track adjacent to the GSO game board
+6. Place the Threat Token on the Threat Track starting space based on the number of players in the game
 
 ## Assign Player Spaceships
 
@@ -95,7 +99,6 @@ Debris fields are treacherous, and additional damage will jeopardize future miss
 	1. Spaces are considered adjacent if they are connected by a dotted line.
 14. Shuffle all orbit cards and fragmentation cards together into a single orbit deck
 15. Place the orbit deck face down near the game board
-16. Place the Threat Token on the indicated Threat starting space.
 
 # Objective 
 
@@ -328,8 +331,6 @@ For each Resource card discarded from a player's hand because of hand limit rest
 
 # Glossary
 **Adjacent** - Spaces are considered adjacent if they are connected by a dotted line.
-
-**Damage**  - TODO 
 
 **Empty** - A space with 0 game pieces.
 
