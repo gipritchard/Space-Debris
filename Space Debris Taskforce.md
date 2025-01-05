@@ -26,7 +26,7 @@ Debris fields are treacherous, and additional damage will jeopardize future miss
 	- 10 Plastic cards
 	- 10 Metal cards
 	- 12 Junk cards
-- 40 card Debris Deck
+- 40 card Orbit Deck
 	- 8 Low Earth Orbit cards
 	- 12 High Earth Orbit cards
 	- 16 Geostationary Orbit cards
@@ -60,7 +60,7 @@ Debris fields are treacherous, and additional damage will jeopardize future miss
 2. Give each player 1 pawn, 1 Spaceship card, 1 HP Tracker, 1 Debris capacity Tracker  
 3. Each player, place the Spaceship card face up on the table in front of them
 4. Each player, place the HP Tracker token on your Spaceship card under the 4 HP mark
-5. Each player, place the Debris capacity Tracker token on your Spaceship card under the 5 capacity mark  
+5. Each player, place the Debris Capacity Tracker on your Spaceship card under the 5 capacity mark  
 6. Shuffle all Resource cards into a single Resource deck
 7. Place the Resource deck face down near the game board
 8. Each player, draw 2 cards from the Resource deck and add them to your hand 
@@ -73,15 +73,14 @@ Debris fields are treacherous, and additional damage will jeopardize future miss
 	1. Each satellite will be assigned a letter: "A", "B", "C", "D"
 3. Choose (or randomly choose) 1 Satellite card. Flip it to its operational side
 4. Place the Satellite HP Tracker token on each Satellite card under the 4 HP mark
-5. Place the Threat Token on the indicated Threat starting space.
 
 ## Add Orbitals
 
 ![](../assets/screenshots/TX_Setup2.png)
 *Example 4 player game set up*
 
-1. Remove fragmentation cards from the debris deck
-2. Separate the debris deck into LEO, HEO, & GSO card piles
+1. Remove fragmentation cards from the orbit deck
+2. Separate the orbit deck into LEO, HEO, & GSO card piles
 3. Shuffle each pile of cards separately
 4. Draw 1 card from the LEO pile, place the 'A' satellite token at this location
 5. Draw 1 card from the HEO pile, place the 'B' satellite token at this location
@@ -94,24 +93,27 @@ Debris fields are treacherous, and additional damage will jeopardize future miss
 12. Place the remaining debris near the game board, this is the supply
 13. Each player, place your pawn on an empty space adjacent to a satellite OR on a satellite with no other pawns
 	1. Spaces are considered adjacent if they are connected by a dotted line.
-14. Shuffle all debris cards and fragmentation cards together into a single debris deck
-15. Place the debris deck face down near the game board
+14. Shuffle all orbit cards and fragmentation cards together into a single orbit deck
+15. Place the orbit deck face down near the game board
+16. Place the Threat Token on the indicated Threat starting space.
 
 # Objective 
 
 Flip all malfunctioning satellites to their operational side by delivering the necessary resources. 
 # Order of Play
-The player who last looked at the night sky goes first, and play continues to the left. On every turn do the following three things in order:
+The player who last looked at the night sky goes first, and play continues to the left. On every turn do the following four things in order:
 1. Take up to 4 actions
-2. Draw debris cards
-3. Orbit around Earth
+2. Assess Threat
+3. Place Debris
+4. Orbit around Earth
 
 ## 1. Take up to 4 actions
 On your turn you may take up to 4 actions, in any order. You may take the same action multiple times. You may collaborate with your teammates to decide which actions you want to take.   
 
 ### Move
 ![](../attachments/action_move_example.jpg)
-- Move your player pawn up to 2 spaces following dotted lines. You may share a space with other Spaceships, Satellites, or debris.
+- Move your pawn up to 2 spaces following dotted lines. 
+	- You may share a space with other Spaceships, Satellites, or debris.
 	- If the space you move into contains any debris, your Spaceship takes 1 point of damage.
 
 ### Capture Debris
@@ -169,46 +171,79 @@ See the "Hand Limit" section for restrictions.
 
 ### Play Resource Card
 #### Fuel
-- Action: Discard this card to move your pawn up to 3 spaces, ignoring debris damage.
+- Discard this card to move your pawn up to 3 spaces, ignoring debris damage.
 #### Electronics
-- Action: Discard this card to capture any number of debris from 1 adjacent space.
+- Discard this card to capture any number of debris from 1 adjacent space.
 #### Plastic
-- Action: Discard this card to upgrade your spaceship's debris capacity by 1.
+- Discard this card to upgrade your spaceship's debris capacity by 1.
 #### Metal
-- Action: Discard this card to fully repair 1 spaceship or satellite in your space.
+- Discard this card to fully repair 1 spaceship or satellite in your space.
 #### Junk
 - This is a wild resource (fuel, electronics, plastic, metal) used during a Deliver action.
 - Cannot be played as an action.
 
-## 2. Draw Debris Cards
-Each space is limited to 3 debris. As debris accumulates in a space, the risk of a _collision_ increases and fragmentation becomes more dangerous. If you are required to place debris on a space and don't have enough in the supply, your team is defeated. 
+## 2. Assess Threat
+Threat gradually increases over time, but your team can mitigate it through thoughtful strategy and coordination. 
 
-- Look at the Threat tracker, this determines how many debris cards will be drawn and the quantity of debris to add into orbit.
-- Draw the indicated number of debris cards 1 at a time from the debris deck.
-- If it is an orbit card...
-	- Locate the associated space on the game board
-	- All Spaceships in that space take 1 damage
-	- Any Satellite in that space takes 1 damage AND Threat increases by 1 space
-	- Add debris from the supply to that space up to a maximum of 3 debris
-		- If the space contains 3 debris and you must place additional debris in that space, then a <i>collision</i> has occurred. See the Collisions section below.
-	- Discard this card
-- If it is a fragmentation card...
-	- Increase Threat by 1 space
-	- Draw an additional Debris card from the debris deck
-		- If you draw additional fragmentation card(s), discard them and draw until you receive an orbit card.
-	- Place 3 debris at the indicated location, resolving the orbit card as indicated above
-	- Shuffle the debris discard and draw piles together, and place it face down near the game board
-	- Discard this card
-	- Stop drawing Debris cards, and move on to "Orbit around Earth" 
+↑ Threat increases when...
+- Any player flips a _fragmentation_ card
+- Debris causes a _collision_
+- Any satellite receives _damage_
+↓ Threat decreases when...
+- Any player recycles 5 or more debris in a single action
+- Any satellite becomes operational
+
+The Threat track determines how many orbit cards to draw, and the quantity of debris that will be placed into orbit.  
+
+| Threat Level | # of orbit cards to draw | 1st card debris | 2nd card debris | 3rd card debris |
+| :----------: | :----------------------: | :-------------: | :-------------: | :-------------: |
+|      1       |            2             |        1        |        1        |        -        |
+|      2       |            2             |        1        |        2        |        -        |
+|      3       |            3             |        1        |        1        |        2        |
+|      4       |            3             |        1        |        2        |        2        
+- Look at the threat track to determine your threat level
+- Draw orbit cards from the orbit deck, and place them face down near the game board
+- Place debris from the supply on top of the face down orbit cards
+	- The debris on top of these cards will be used in the upcoming Place Debris step
+	- If the supply does not have enough debris to complete this step, your team is defeated.
+
+**Example**: John is ready to draw orbit cards. He looks at the threat level. His team's threat level is 2. John draws 2 orbit cards, without looking at them, and places them face down near the game board. John places 1 debris cube on top of the 1st orbit card. Finally, he places 2 debris cubes on top of the 2nd orbit card. 
+## 3. Place Debris
+Each space is limited to 3 debris. As debris accumulates, the risk of a _collision_ increases and _fragmentation_ becomes more dangerous. If you are required to place debris on a space and don't have enough in the supply, your team is defeated. 
+
+- Flip face down orbit cards 1 at a time
+- Resolve each orbit card
+	- If threat level increases, do **not** draw additional orbit cards or change debris amount
+- Repeat until all orbit cards are discarded
+### Orbit Card
+- Locate the space on the game board
+- All spaceships in this space take 1 damage
+- Any satellite in this space takes 1 damage AND Threat increases by 1 space
+- Add debris to this space
+	- If the space contains more than 3 debris, then a <i>collision</i> has occurred. See the Collisions section below.
+- Discard this card
+
+**Example 1**: Michael has a facedown orbit card in front of him with 1 debris on it. He flips it face up, and finds that space on the game board. The space is empty. Michael places the 1 debris from the card onto that space. Finally, he discards the orbit card.
+
+**Example 2**: Caitlin has a facedown orbit card in front of her with 2 debris on it. She flips it face up, and finds that space on the game board. The space contains the 'B' satellite token, and 1 debris. She deals 1 damage to the 'B' satellite, then places 2 debris onto that space. She now discards the orbit card. The space now contains 3 debris, any additional debris will cause a collision!
+### Fragmentation Card
+- Increase Threat by 1 space
+- Draw the top card of the orbit deck
+	- If you draw another fragmentation card, discard it. Draw until you receive an orbit card.
+- Place 3 debris in that space, resolving the orbit card as indicated above
+- Shuffle the orbit discard and draw piles together
+- Discard this card
+
+**Example**: TODO
 
 ### Collisions
 ![](../attachments/collision_example1.jpg)
 ![](../attachments/collision_example2.jpg)
 - Increase Threat by 1 space
-- Place debris in adjacent spaces with the fewest game pieces (Debris, Spaceships, Satellites)
+- Place excess debris in an adjacent space with the fewest game pieces (Debris, Spaceships, Satellites)
 	- If at any point, every adjacent space has 3 Debris and you have more debris to place, you are defeated.
 
-## 3. Orbit Around Earth
+## 4. Orbit Around Earth
 The final step of a player's turn is rotating the High Earth Orbit and Low Earth Orbit boards.
 ![](../attachments/orbit_example.jpg)
 - Rotate the High Earth Orbit (HEO) board with all pieces on it, 90° clockwise
@@ -221,25 +256,6 @@ Players have a hand limit of 5 Resource cards. If you ever have 6 or more cards 
 
 ## When The Resource Deck Runs Out
 Immediately shuffle the Resource discard pile and stack the cards face down to form a new Resource deck. If this happens in the middle of a turn, continue to draw Resource cards as necessary from the new pile.
-
-## Threat
-Threat determines now many debris cards are drawn, and the quantity of debris added into orbit. 
-
-| Threat Level | # debris cards to draw | 1st draw debris | 2nd draw debris | 3rd draw debris |
-| :----------: | :--------------------: | :-------------: | :-------------: | :-------------: |
-|      1       |           2            |        1        |        1        |        -        |
-|      2       |           2            |        1        |        2        |        -        |
-|      3       |           3            |        1        |        1        |        2        |
-|      4       |           3            |        1        |        2        |        2        
-**Example**: John is ready to draw debris cards. He looks at the threat level. His team's threat level is 2. John needs to draw two debris cards. He draws the first debris card and places 1 debris at that location. He draws a second debris card and places 2 debris at that location.
-
-↑ Threat increases when...
-- Any player draws a fragmentation card
-- Debris causes a _collision_
-- Any satellite receives damage
-↓ Threat decreases when...
-- Any player recycles 5 or more debris in a single action
-- Any satellite becomes operational
 
 ## Satellites
 Satellites can be in two states; malfunctioning and operational. Malfunctioning satellites do not provide any team bonuses. They need all required resources to become operational. Once all required resources have been delivered, flip the satellite card to its operational side.
@@ -281,13 +297,12 @@ Operational satellites offer powerful teamwide bonuses, one time benefits, or un
 # Game End
 
 ## Victory
-Players are victorious if any of the following conditions are met:
-- All Satellite cards are flipped to their operational side
+Players are victorious if all Satellite cards are flipped to their operational side
 
 ## Defeat
 Players are defeated if any of the following conditions are met:
-- Any player Spaceship reaches 0 HP
-- Any Satellite reaches 0 HP
+- Any player spaceship reaches 0 HP
+- Any satellite reaches 0 HP
 - The debris supply is empty AND players must place more debris in orbit
 - Any player must place debris on an adjacent space AND all adjacent spaces contain 3 debris
 
@@ -355,5 +370,4 @@ Space Reserved
 		- https://helianthus-games.itch.io/pixel-art-planets
 
 
-TODO - Threat Track, component, rules, increase+decrease
-TODO - Update Step 2 of turn to reflect updated state of play
+TODO - Threat Track, component, rules
