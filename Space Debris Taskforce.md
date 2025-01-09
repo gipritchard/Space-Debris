@@ -348,7 +348,7 @@ Space Reserved
 
 - Game Design: Alex Pritchard
 - Play Testers: 
-	- Caitlin, John, Julie, Austin, Samantha, Deb, Fred
+	- Caitlin, John, Julie, Austin, Samantha, Deb, Fred, Chris
 - Font Assets
 	- [Exo 2](https://fonts.google.com/specimen/Exo+2/license) by Natanael Gama under [SIL OPEN FONT LICENSE Version 1.1](https://openfontlicense.org/open-font-license-official-text/)
 - Game Assets
