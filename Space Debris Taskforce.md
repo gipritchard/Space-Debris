@@ -279,7 +279,7 @@ Operational satellites offer powerful teamwide bonuses, one time benefits, or un
 
 ### Debris Forecast
 - Repair Cost: 2 Fuel, 2 Electronics, 2 Plastic, 2 Metal
-- Passive: Your team may play with the top card of the debris deck face up.
+- Passive: Your team may play with the top card of the orbit deck face up.
 
 ### Extra Storage
 - Repair Cost: 0 Fuel, 0 Electronics, 4 Plastic, 4 Metal
@@ -373,6 +373,8 @@ Space Reserved
 		- https://screamingbrainstudios.itch.io/seamless-space-backgrounds
 	- [Helianthus Games](https://helianthus-games.itch.io/) under UNSPECIFIED "Credit not required"
 		- https://helianthus-games.itch.io/pixel-art-planets
+	- [Norma2D](https://twitter.com/norma_2d) under UNSPECIFIED "Credit not required"
+		- https://norma-2d.itch.io/celestial-objects-pixel-art-pack
 
 
 TODO - Threat Track, component, rules
