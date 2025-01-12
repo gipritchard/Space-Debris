@@ -188,11 +188,11 @@ See the "Hand Limit" section for restrictions.
 - This is a wild resource (fuel, electronics, plastic, metal) used during a Deliver action.
 - Cannot be played as an action.
 
-### Activate Operational Satellite
-Some operational satellites grant your team access to unique actions. During your turn you may spend an action to perform the action printed on the satellite card.  
+### Activate Satellite
+Some operational satellites grant your team access to unique actions. During your turn you may spend an action to perform the action printed on an operational satellite card.  
 
 ## 2. Assess Threat
-Threat gradually increases over time, but your team can mitigate it through thoughtful strategy and coordination. 
+Threat gradually increases over time, but your team can mitigate it through thoughtful strategy and coordination. The threat track determines how many orbit cards to draw, and the quantity of debris that will be placed into orbit.  
 
 ↑ Threat increases when...
 - Any player flips a _fragmentation_ card
@@ -202,8 +202,6 @@ Threat gradually increases over time, but your team can mitigate it through thou
 - Any player recycles 5 or more debris in a single action
 - Any satellite becomes operational
 
-The Threat track determines how many orbit cards to draw, and the quantity of debris that will be placed into orbit.  
-
 | Threat Level | # of orbit cards to draw | 1st card debris | 2nd card debris | 3rd card debris |
 | :----------: | :----------------------: | :-------------: | :-------------: | :-------------: |
 |      1       |            2             |        1        |        1        |        -        |
@@ -211,15 +209,13 @@ The Threat track determines how many orbit cards to draw, and the quantity of de
 |      3       |            3             |        1        |        1        |        2        |
 |      4       |            3             |        1        |        2        |        2        
 ![[TX_Rulebook_Threat.png]]
-*Example: The threat marker indicates the current threat level. The marker is next to threat level 2. This mean we draw 2 orbit cards face down. The first orbit card will place 1 debris into orbit. The second orbit card will place 2 debris into orbit.*
+*Example: John is ready to draw orbit cards. He looks at the threat level. His team's threat level is 2. John draws 2 orbit cards, without looking at them, and places them face down near the game board. John places 1 debris cube on top of the 1st orbit card. Finally, he places 2 debris cubes on top of the 2nd orbit card.*
 
 - Look at the threat track to determine your threat level
 - Draw orbit cards from the orbit deck, and place them face down near the game board
 - Place debris from the supply on top of the face down orbit cards
 	- The debris on top of these cards will be used in the upcoming Place Debris step
 	- If the supply does not have enough debris to complete this step, your team is defeated.
-
-**Example**: John is ready to draw orbit cards. He looks at the threat level. His team's threat level is 2. John draws 2 orbit cards, without looking at them, and places them face down near the game board. John places 1 debris cube on top of the 1st orbit card. Finally, he places 2 debris cubes on top of the 2nd orbit card. 
 ## 3. Place Debris
 Each space is limited to 3 debris. As debris accumulates, the risk of a _collision_ increases and _fragmentation_ becomes more dangerous. If you are required to place debris on a space and don't have enough in the supply, your team is defeated. 
 
@@ -235,9 +231,11 @@ Each space is limited to 3 debris. As debris accumulates, the risk of a _collisi
 	- If the space contains more than 3 debris, then a <i>collision</i> has occurred. See the Collision section below.
 - Discard this card
 
-**Example 1**: Michael has a facedown orbit card in front of him with 1 debris on it. He flips it face up, and finds that space on the game board. The space is empty. Michael places the 1 debris from the card onto that space. Finally, he discards the orbit card.
+![[TX_Rulebook_PlaceDebris_Example1.png]]
+*Example 1: Michael has a facedown orbit card in front of him with 1 debris on it. He flips it face up, and finds that space on the game board. The space is empty. Michael places the 1 debris from the card onto that space. Finally, he discards the orbit card.*
 
-**Example 2**: Caitlin has a facedown orbit card in front of her with 2 debris on it. She flips it face up, and finds that space on the game board. The space contains the 'B' satellite token, and 1 debris. She deals 1 damage to the 'B' satellite, then places 2 debris onto that space. She now discards the orbit card. The space now contains 3 debris, any additional debris will cause a collision!
+![[TX_Rulebook_PlaceDebris_Example2.png]]
+*Example 2 Michael has a facedown orbit card in front of him with 2 debris on it. He flips it face up, and finds that space on the game board. The space contains the 'D' satellite token. He deals 1 damage to the 'D' satellite, increases Threat by 1, then places 2 debris onto that space. Finally, he discards the orbit card.*
 ### Fragmentation Card
 - Increase Threat by 1 space
 - Draw the top card of the orbit deck
@@ -261,7 +259,8 @@ Collisions occur when a space contains more than 3 debris. This knocks excess de
 
 ## 4. Orbit Around Earth
 The final step of a player's turn is rotating the High Earth Orbit and Low Earth Orbit boards.
-![](../attachments/orbit_example.jpg)
+
+![[TX_Rulebook_Orbit.png]]
 - Rotate the High Earth Orbit (HEO) board with all pieces on it, 90° clockwise
 - Rotate the Low Earth Orbit (LEO) board with all pieces on it, an additional 90° clockwise
 
