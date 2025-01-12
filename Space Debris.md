@@ -198,6 +198,7 @@ Threat gradually increases over time, but your team can mitigate it through thou
 - Any player flips a _fragmentation_ card
 - Debris causes a _collision_
 - Any satellite receives _damage_
+
 ↓ Threat decreases when...
 - Any player recycles 5 or more debris in a single action
 - Any satellite becomes operational
