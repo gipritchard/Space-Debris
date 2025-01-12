@@ -3,13 +3,12 @@
 
 Team, our mission is critical and the stakes are high. As you know, space debris has already caused significant damage to vital satellites; threatening communication, navigation, and systems essential for life on Earth. We have repair teams in orbit as we speak to fix these malfunctioning satellites, but they don't have enough supplies to get the job done.
 
-That's where you come in. These debris fields are full of the necessary resources we need to fix our satellites. Capture the debris, recycle it into usable resources, and deliver them to our satellite repair teams. 
+That's where you come in. These debris fields are full of the necessary resources we need to fix our satellites. Capture the debris, recycle it into usable resources, and deliver them to our satellites. 
 
 Debris fields are treacherous, and additional damage will jeopardize future missions. Proceed with caution, our success is essential to the future of space exploration.
 
 # Components
-![](../attachments/components.png)
-
+![[TX_Rulebook_Components.png]]
 - 3 Game boards
 	- 1 Low Earth Orbit (LEO)
 	- 1 High Earth Orbit (HEO)
@@ -41,13 +40,12 @@ Debris fields are treacherous, and additional damage will jeopardize future miss
 - 50 Debris cubes
 
 # Set Up
-![](../attachments/set_up_complete_example.jpg)
+![[TX_Rulebook_Setup0.png]]
 *Complete game set up for an example 4 player game*
 
 ## Create the Game Board
-
-![](../assets/screenshots/TX_Setup0.png)
-*Initial set up with game boards stacked on top of each other*
+![[TX_Rulebook_Setup1.png]]
+*Initial set up with game boards stacked on top of each other. Threat marker placed for a 4 player game.*
 
 1. Place the Geostationary Orbit (GSO) game board in the center of the table
 2. Stack the High Earth Orbit (HEO) game board on top of the GSO game board
@@ -57,9 +55,7 @@ Debris fields are treacherous, and additional damage will jeopardize future miss
 6. Place the Threat Token on the Threat Track starting space based on the number of players in the game
 
 ## Assign Player Spaceships
-
-![](../attachments/set_up1.jpg)
-
+![[TX_Rulebook_Setup2.png]]
 1. Give each player a player aid card
 2. Give each player 1 pawn, 1 Spaceship card, 1 HP Tracker, 1 Debris capacity Tracker  
 3. Each player, place the spaceship card face up on the table in front of them
@@ -70,17 +66,15 @@ Debris fields are treacherous, and additional damage will jeopardize future miss
 8. Each player, draw 2 cards from the Resource deck and add them to your hand 
 
 ## Choose Satellites
-![](../attachments/set_up3.jpg)
-
+![[TX_Rulebook_Setup3.png]]
 1. Players choose (or randomly choose) 4 Satellite cards
-2. Place all Satellite cards, on their malfunctioning side, next to the Satellite Tracker 
+3. Place all Satellite cards, on their malfunctioning side, next to the Satellite Tracker 
 	1. Each satellite will be assigned a letter: "A", "B", "C", "D"
-3. Choose (or randomly choose) 1 Satellite card. Flip it to its operational side
-4. Place the Satellite HP Tracker token on each Satellite card under the 4 HP mark
+4. Choose (or randomly choose) 1 Satellite card. Flip it to its operational side
+5. Place the Satellite HP Tracker token on each Satellite card under the 4 HP mark
 
 ## Add Orbitals
-
-![](../assets/screenshots/TX_Setup2.png)
+![[TX_Rulebook_Setup4.png]]
 *Example 4 player game set up*
 
 1. Remove fragmentation cards from the orbit deck
@@ -113,14 +107,18 @@ The player who last looked at the night sky goes first, and play continues to th
 ## 1. Take up to 4 actions
 On your turn you may take up to 4 actions, in any order. You may take the same action multiple times. You may collaborate with your teammates to decide which actions you want to take.   
 
-### Move
-![](../attachments/action_move_example.jpg)
+### Thrust
+![[TX_Rulebook_Action_MoveExample.png]]
+*Example: Caitlin chooses the thrust action and moves her pawn twice. Her first move places her to 'Satellite B's space. Her second move places her in a space with two debris. Even though the space has more than 1 debris, she only takes 1 point of damage.*
+
 - Move your pawn up to 2 spaces following dotted lines. 
 	- You may share a space with other pawns, satellites, or debris.
 	- If the space you move into contains any debris, your spaceship takes 1 point of damage.
 
 ### Capture Debris
-![](../attachments/action_capture_example.jpg)
+![[TX_Rulebook_Action_CaptureExample.png]]
+*Example: Caitlin decides to capture twice. Her first capture action moves both debris from her space onto her Spaceship card. Her second capture action moves 1 debris from an adjacent space onto her Spaceship card. She now has 3 debris on her spaceship, and has room for 2 more debris.*
+
 - Move any number of debris from your space onto your spaceship card.
 
 OR
@@ -130,8 +128,10 @@ OR
 Spaceships carry debris up to their capacity. A spaceship's capacity starts at 5, and may be upgraded via other actions.
 
 ### Recycle
-![](../attachments/action_recycle_example.jpg)
-- Move any number of debris from your spaceship card back to the supply. Draw that number of resource cards.
+![[TX_Rulebook_Action_RecycleExample.png]]
+*Example: Caitlin chooses to recycle all 3 debris on her spaceship card. She moves the debris to the supply, and draws 3 resource cards. She has less than 5 cards in hand, and does not need to discard excess resource cards.*
+
+- Move any number of debris from your spaceship card back to the supply, then draw that number of resource cards.
 	- If you recycle 5 or more debris in one action, decrease Threat by 1 space
 
 See the "Hand Limit" section for restrictions. 
@@ -149,7 +149,9 @@ At any malfunctioning Satellite space, you may...
 - If all Satellite cards are on the operational side, you win!
 
 ### Repair
-![](../attachments/action_repair_example.jpg)
+![[TX_Rulebook_Action_RepairExample.png]]
+*Example: Austin (orange) is on Satellite C's space with Caitlin (blue), and chooses the repair action. He can choose to heal 1 point of damage on himself, Caitlin, or Satellite C. Austin is at 1 HP and chooses himself, increasing his health from 1 to 2.*
+
 At any Satellite space, you may...
 - Increase your spaceship's health by 1 HP.
 
@@ -159,7 +161,7 @@ OR
 
 OR
 
-- Increase a teammate's spaceship's health by 1 HP, if they are also in your space.
+- Increase a teammate spaceship's health by 1 HP, if they are also in your space.
 
 ### Exchange Resource
 ![](../attachments/action_exchange_example.jpg)
@@ -265,7 +267,7 @@ Players have a hand limit of 5 Resource cards. If you ever have 6 or more cards 
 Immediately shuffle the Resource discard pile and stack the cards face down to form a new Resource deck. If this happens in the middle of a turn, continue to draw Resource cards as necessary from the new pile.
 
 ## Satellites
-Satellites can be in two states; malfunctioning and operational. Malfunctioning satellites do not provide any team bonuses. They need all required resources to become operational. Once all required resources have been delivered, flip the satellite card to its operational side.
+Satellites can be in two states; malfunctioning and operational. Malfunctioning satellites do not provide any team bonuses. They need all required resources to become operational. Once all required resources have been delivered, flip the satellite card to its operational side and full heal the satellite.
 
 Operational satellites offer powerful teamwide bonuses, one time benefits, or unlock additional actions. Prioritize which satellite should be fixed first to maximize your team's chance for success.
 
@@ -311,7 +313,7 @@ Players are defeated if any of the following conditions are met:
 - Any player spaceship reaches 0 HP
 - Any satellite reaches 0 HP
 - The debris supply is empty AND players must place more debris in orbit
-- Any player must place debris on an adjacent space AND all adjacent spaces contain 3 debris
+- A collision occurs AND all adjacent spaces contain 3 debris
 
 # Optional Advanced Rules
 Players looking for a more challenging experience may choose to play with any (or all) of the following rules/restrictions. This is not recommended for your first few games.
@@ -327,14 +329,14 @@ For each Resource card discarded from a player's hand because of hand limit rest
 - If there is a tie for fewest game pieces, the discarding player chooses.
 - If all adjacent spaces contain 3 debris, your team is defeated.
 
-**Example**: Caitlin has 3 cards in hand, and chooses to recycle 4 debris on her Spaceship. She draws 4 Resource cards and now has 7 total cards in hand. Caitlin must now choose any 2 cards in hand to discard. After discarding 2 cards, she takes 2 debris from the supply and places them amongst adjacent spaces with the fewest game pieces.
+**Example**: Caitlin has 3 cards in hand, and chooses to recycle 4 debris on her Spaceship. She draws 4 Resource cards and now has 7 total cards in hand. Caitlin must now choose any 2 cards in hand to discard. After discarding 2 cards, she takes 2 debris from the supply and places them in an adjacent space with the fewest game pieces.
 
 # Glossary
 **Adjacent** - Spaces are considered adjacent if they are connected by a dotted line.
 
 **Empty** - A space with 0 game pieces.
 
-**Game Piece** - Debris, Satellites, Spaceships.
+**Game Piece** - Debris, Pawns, Satellites.
 
 **Passive** - An ongoing effect that costs 0 resources to use.
 
@@ -342,7 +344,8 @@ For each Resource card discarded from a player's hand because of hand limit rest
 
 # FAQs
 
-Space Reserved
+Q: How much damage do I take if my thrust action moves me into 2 spaces that both contain debris?
+A: Each time your pawn moves into a space with debris, you take 1 damage. In this situation, you take 2 damage total.
 
 # Credits
 
