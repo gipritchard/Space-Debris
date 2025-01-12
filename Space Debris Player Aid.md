@@ -102,6 +102,9 @@ Perform the action printed on an operational satellite card
 - Place 3 debris in that space, resolving the orbit card as indicated above
 - Shuffle the orbit discard and draw piles together
 - Discard this card
+### Collision
+- Increase Threat by 1 space
+- Place excess debris in an adjacent space with the fewest game pieces 
 
 ## 4. Orbit Around Earth
 - Rotate the High Earth Orbit (HEO) board with all pieces on it, 90° clockwise
