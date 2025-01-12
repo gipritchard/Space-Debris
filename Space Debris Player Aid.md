@@ -70,6 +70,9 @@ OR
 Perform the action printed on an operational satellite card 
 
 ## 2. Assess Threat
+- Look at the threat track to determine your threat level
+- Draw orbit cards from the orbit deck, and place them face down near the game board
+- Place debris from the supply on top of the face down orbit cards
 
 ↑ Threat increases when...
 - Any player flips a _fragmentation_ card
@@ -79,10 +82,6 @@ Perform the action printed on an operational satellite card
 ↓ Threat decreases when...
 - Any player recycles 5 or more debris in a single action
 - Any satellite becomes operational
-
-- Look at the threat track to determine your threat level
-- Draw orbit cards from the orbit deck, and place them face down near the game board
-- Place debris from the supply on top of the face down orbit cards
 
 ## 3. Place Debris
 - Flip face down orbit cards 1 at a time
