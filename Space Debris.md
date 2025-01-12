@@ -379,5 +379,4 @@ A: Each time your pawn moves into a space with debris, you take 1 damage. In thi
 	- [Norma2D](https://twitter.com/norma_2d) under UNSPECIFIED "Credit not required"
 		- https://norma-2d.itch.io/celestial-objects-pixel-art-pack
 
-
-TODO - Threat Track, component, rules
+Version: 1.0.0-CardboardEdison2025
