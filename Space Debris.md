@@ -98,7 +98,7 @@ Debris fields are treacherous, and additional damage will jeopardize future miss
 
 Flip all malfunctioning satellites to their operational side by delivering the necessary resources. 
 # Order of Play
-The player who last looked at the night sky goes first, and play continues to the left. On every turn do the following four things in order:
+The player who last looked at the night sky goes first, and play continues to the left. On every turn, do the following four things in order:
 1. Take up to 4 actions
 2. Assess Threat
 3. Place Debris
@@ -137,7 +137,9 @@ Spaceships carry debris up to their capacity. A spaceship's capacity starts at 5
 See the "Hand Limit" section for restrictions. 
 
 ### Deliver
-![](../attachments/action_maintenance_example.jpg)
+![[TX_Rulebook_Action_DeliverExample.png]]
+*Example: Satellite B needs 2 more fuel and 1 more electronics to be operational. Caitlin has 1 fuel, and 2 junk (wild) resource cards in hand. She moves to Satellite B, then uses the deliver action. Satellite B now has all required resources! She flips the card to operational, fully heals the satellite, decreases threat by 1, then discards all resource cards next to the satellite. All players now has access to the Onboard Boosters satellite action.*
+
 At any malfunctioning Satellite space, you may...
 - Place any number of Resource cards from your hand next to the associated Satellite card that match the required resources
 - If all required resources have been delivered to a Satellite...
@@ -164,7 +166,6 @@ OR
 - Increase a teammate spaceship's health by 1 HP, if they are also in your space.
 
 ### Exchange Resource
-![](../attachments/action_exchange_example.jpg)
 While sharing a space with another player, you may...
 - Give 1 Resource card to the other player
 
@@ -187,6 +188,9 @@ See the "Hand Limit" section for restrictions.
 - This is a wild resource (fuel, electronics, plastic, metal) used during a Deliver action.
 - Cannot be played as an action.
 
+### Activate Operational Satellite
+Some operational satellites grant your team access to unique actions. During your turn you may spend an action to perform the action printed on the satellite card.  
+
 ## 2. Assess Threat
 Threat gradually increases over time, but your team can mitigate it through thoughtful strategy and coordination. 
 
@@ -206,6 +210,9 @@ The Threat track determines how many orbit cards to draw, and the quantity of de
 |      2       |            2             |        1        |        2        |        -        |
 |      3       |            3             |        1        |        1        |        2        |
 |      4       |            3             |        1        |        2        |        2        
+![[TX_Rulebook_Threat.png]]
+*Example: The threat marker indicates the current threat level. The marker is next to threat level 2. This mean we draw 2 orbit cards face down. The first orbit card will place 1 debris into orbit. The second orbit card will place 2 debris into orbit.*
+
 - Look at the threat track to determine your threat level
 - Draw orbit cards from the orbit deck, and place them face down near the game board
 - Place debris from the supply on top of the face down orbit cards
@@ -217,9 +224,9 @@ The Threat track determines how many orbit cards to draw, and the quantity of de
 Each space is limited to 3 debris. As debris accumulates, the risk of a _collision_ increases and _fragmentation_ becomes more dangerous. If you are required to place debris on a space and don't have enough in the supply, your team is defeated. 
 
 - Flip face down orbit cards 1 at a time
-- Resolve each orbit card
-	- If threat level increases, do **not** draw additional orbit cards or change debris amount
-- Repeat until all orbit cards are discarded
+- Resolve each card
+	- If threat level increases, do **not** draw additional cards or change debris amount
+- Repeat until all cards are discarded
 ### Orbit Card
 - Locate the space on the game board
 - All spaceships in this space take 1 damage

@@ -2,7 +2,6 @@
 
 Flip all malfunctioning satellites to their operational side by delivering the necessary resources. 
 # Order of Play
-On every turn do the following four things in order:
 1. Take up to 4 actions
 2. Assess Threat
 3. Place Debris
@@ -67,6 +66,9 @@ OR
 - This is a wild resource (fuel, electronics, plastic, metal) used during a Deliver action.
 - Cannot be played as an action.
 
+### Activate Operational Satellite
+Perform the action printed on an operational satellite card 
+
 ## 2. Assess Threat
 
 ↑ Threat increases when...
@@ -83,8 +85,9 @@ OR
 
 ## 3. Place Debris
 - Flip face down orbit cards 1 at a time
-- Resolve each orbit card
-- Repeat until all orbit cards are discarded
+- Resolve each card
+	- If threat level increases, do **not** draw additional cards or change debris amount
+- Repeat until all cards are discarded
 ### Orbit Card
 - Locate the space on the game board
 - All spaceships in this space take 1 damage
