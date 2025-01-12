@@ -209,6 +209,7 @@ Threat gradually increases over time, but your team can mitigate it through thou
 |      2       |            2             |        1        |        2        |        -        |
 |      3       |            3             |        1        |        1        |        2        |
 |      4       |            3             |        1        |        2        |        2        
+
 ![[TX_Rulebook_Threat.png]]
 *Example: John is ready to draw orbit cards. He looks at the threat level. His team's threat level is 2. John draws 2 orbit cards, without looking at them, and places them face down near the game board. John places 1 debris cube on top of the 1st orbit card. Finally, he places 2 debris cubes on top of the 2nd orbit card.*
 
