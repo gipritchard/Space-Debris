@@ -259,8 +259,8 @@ Collisions occur when a space contains more than 3 debris. This knocks excess de
 	- If there is a tie for fewest game pieces, the current player chooses.
 	- If every adjacent space has 3 debris, you are defeated.
 
-![](../attachments/collision_example1.jpg)
-**Example**: Alex must add 2 debris to a space that contains 3 debris. This causes a collision. Alex increases Threat by 1. Next, he looks at all adjacent spaces. The left space contains 1 pawn, the right space contains 1 debris, and the space below contains a satellite and 1 pawn. The left space and right space are tied for fewest game pieces, Alex can choose between them. Alex chooses the right space, and places 2 debris into that space.
+![[TX_Rulebook_Collision.png]]
+*Example: Alex must add 2 debris to a space that contains 3 debris. This causes a collision. Alex increases Threat by 1. Next, he looks at all adjacent spaces. The left space contains 1 pawn, the right space contains 1 debris, and the space below contains a satellite and 1 pawn. The left space and right space are tied for fewest game pieces, Alex can choose between them. Alex chooses the right space, and places 2 debris into that space.*
 
 ## 4. Orbit Around Earth
 The final step of a player's turn is rotating the High Earth Orbit and Low Earth Orbit boards.
