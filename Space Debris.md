@@ -115,7 +115,7 @@ On your turn you may take up to 4 actions, in any order. You may take the same a
 	- If the space you move into contains any debris, your spaceship takes 1 point of damage.
 
 ### Capture Debris
-![[TX_Rulebook_Action_CaptureExample.png]]
+![][https://raw.githubusercontent.com/gipritchard/Space-Debris/refs/heads/main/assets/screenshots/TX_Rulebook_Action_CaptureExample.png]
 *Example: Caitlin decides to capture twice. Her first capture action moves both debris from her space onto her Spaceship card. Her second capture action moves 1 debris from an adjacent space onto her Spaceship card. She now has 3 debris on her spaceship, and has room for 2 more debris.*
 
 - Move any number of debris from your space onto your spaceship.
