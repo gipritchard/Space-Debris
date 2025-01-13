@@ -236,10 +236,7 @@ Each space is limited to 3 debris. As debris accumulates, the risk of a _collisi
 - Discard this card
 
 <img src="https://raw.githubusercontent.com/gipritchard/Space-Debris/refs/heads/main/assets/screenshots/TX_Rulebook_PlaceDebris_Example1.png"  />
-<i>Example 1: Michael has a facedown orbit card in front of him with 1 debris on it. He flips it face up, and finds that space on the game board. The space is empty. Michael places the 1 debris from the card onto that space. Finally, he discards the orbit card.</i>
-
-<img src="https://raw.githubusercontent.com/gipritchard/Space-Debris/refs/heads/main/assets/screenshots/TX_Rulebook_PlaceDebris_Example2.png"  />
-<i>Example 2: Michael has a facedown orbit card in front of him with 2 debris on it. He flips it face up, and finds that space on the game board. The space contains the 'D' satellite token. He deals 1 damage to the 'D' satellite, increases Threat by 1, then places 2 debris onto that space. Finally, he discards the orbit card.</i>
+<i>Example: Michael has a facedown orbit card in front of him with 1 debris on it. He flips it face up, and finds that space on the game board. The space is empty. Michael places the 1 debris from the card onto that space. Finally, he discards the orbit card.</i>
 
 ### Fragmentation Card
 - Increase Threat by 1 space
