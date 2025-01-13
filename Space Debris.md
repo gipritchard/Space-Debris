@@ -209,8 +209,8 @@ The threat track determines how many orbit cards to draw, and the quantity of de
 |      3       |            3             |        1        |        1        |        2        |
 |      4       |            3             |        1        |        2        |        2        
 
-![[TX_Rulebook_Threat.png]]
-*Example: John is ready to draw orbit cards. He looks at the threat level. His team's threat level is 2. John draws 2 orbit cards, without looking at them, and places them face down near the game board. John places 1 debris cube on top of the 1st orbit card. Finally, he places 2 debris cubes on top of the 2nd orbit card.*
+<img src="https://raw.githubusercontent.com/gipritchard/Space-Debris/refs/heads/main/assets/screenshots/TX_Rulebook_Threat.png"  />
+<i>Example: John is ready to draw orbit cards. He looks at the threat level. His team's threat level is 2. John draws 2 orbit cards, without looking at them, and places them face down near the game board. John places 1 debris cube on top of the 1st orbit card. Finally, he places 2 debris cubes on top of the 2nd orbit card.</i>
 
 ### Assessing Threat
 - Look at the threat track to determine your threat level
@@ -235,11 +235,12 @@ Each space is limited to 3 debris. As debris accumulates, the risk of a _collisi
 	- If this space contains more than 3 debris, then a _collision_ has occurred. See the Collision section below.
 - Discard this card
 
-![[TX_Rulebook_PlaceDebris_Example1.png]]
-*Example 1: Michael has a facedown orbit card in front of him with 1 debris on it. He flips it face up, and finds that space on the game board. The space is empty. Michael places the 1 debris from the card onto that space. Finally, he discards the orbit card.*
+<img src="https://raw.githubusercontent.com/gipritchard/Space-Debris/refs/heads/main/assets/screenshots/TX_Rulebook_PlaceDebris_Example1.png"  />
+<i>Example 1: Michael has a facedown orbit card in front of him with 1 debris on it. He flips it face up, and finds that space on the game board. The space is empty. Michael places the 1 debris from the card onto that space. Finally, he discards the orbit card.</i>
 
-![[TX_Rulebook_PlaceDebris_Example2.png]]
-*Example 2: Michael has a facedown orbit card in front of him with 2 debris on it. He flips it face up, and finds that space on the game board. The space contains the 'D' satellite token. He deals 1 damage to the 'D' satellite, increases Threat by 1, then places 2 debris onto that space. Finally, he discards the orbit card.*
+<img src="https://raw.githubusercontent.com/gipritchard/Space-Debris/refs/heads/main/assets/screenshots/TX_Rulebook_PlaceDebris_Example2.png"  />
+<i>Example 2: Michael has a facedown orbit card in front of him with 2 debris on it. He flips it face up, and finds that space on the game board. The space contains the 'D' satellite token. He deals 1 damage to the 'D' satellite, increases Threat by 1, then places 2 debris onto that space. Finally, he discards the orbit card.</i>
+
 ### Fragmentation Card
 - Increase Threat by 1 space
 - Draw the top card of the orbit deck
@@ -248,9 +249,9 @@ Each space is limited to 3 debris. As debris accumulates, the risk of a _collisi
 - Shuffle the orbit discard and draw piles together
 - Discard this card
 
-![[TX_Rulebook_Fragmentation.png]]
-*Example: John has a facedown orbit card in front of him with 1 debris on it. He flips it face up to reveal a Fragmentation card. He increases threat by 1 space, then draws the top card of the orbit deck. He finds that space on the gameboard. It contains 2 debris and his pawn, unlucky! He deals 1 damage to himself, and places 3 debris into his space (1 from his orbit card, and 2 from the supply).*
-*His space now contains 5 debris. This causes a collision. Because of the collision, he increases threat by 1 space, and moves 2 debris to an adjacent space with the fewest game pieces. In this case the space to the right. John discards the orbit card, the shuffles the orbit discard and draw piles together. John has fully resolved the fragmentation card and collision. He discards the fragmentation card starting a new discard pile.*
+<img src="https://raw.githubusercontent.com/gipritchard/Space-Debris/refs/heads/main/assets/screenshots/TX_Rulebook_Fragmentation.png"  />
+<i>Example: John has a facedown orbit card in front of him with 1 debris on it. He flips it face up to reveal a Fragmentation card. He increases threat by 1 space, then draws the top card of the orbit deck. He finds that space on the gameboard. It contains 2 debris and his pawn, unlucky! He deals 1 damage to himself, and places 3 debris into his space (1 from his orbit card, and 2 from the supply).
+His space now contains 5 debris. This causes a collision. Because of the collision, he increases threat by 1 space, and moves 2 debris to an adjacent space with the fewest game pieces. In this case the space to the right. John discards the orbit card, the shuffles the orbit discard and draw piles together. John has fully resolved the fragmentation card and collision. He discards the fragmentation card starting a new discard pile.</i>
 
 ### Collision
 Collisions occur when a space contains more than 3 debris. This knocks excess debris into an adjacent space with the fewest game pieces (Debris, Spaceships, Satellites). Its possible for a collision to cause a chain reaction if debris accumulation goes unchecked. When a collision occurs, perform the following steps in order:
@@ -260,13 +261,13 @@ Collisions occur when a space contains more than 3 debris. This knocks excess de
 	- If there is a tie for fewest game pieces, the current player chooses.
 	- If every adjacent space has 3 debris, you are defeated.
 
-![[TX_Rulebook_Collision.png]]
-*Example: Alex must add 2 debris to a space that contains 3 debris. This causes a collision. Alex increases Threat by 1. Next, he looks at all adjacent spaces. The left space contains 1 pawn, the right space contains 1 debris, and the space below contains a satellite and 1 pawn. The left space and right space are tied for fewest game pieces, Alex can choose between them. Alex chooses the right space, and places 2 debris into that space.*
+<img src="https://raw.githubusercontent.com/gipritchard/Space-Debris/refs/heads/main/assets/screenshots/TX_Rulebook_Collision.png"  />
+<i>Example: Alex must add 2 debris to a space that contains 3 debris. This causes a collision. Alex increases Threat by 1. Next, he looks at all adjacent spaces. The left space contains 1 pawn, the right space contains 1 debris, and the space below contains a satellite and 1 pawn. The left space and right space are tied for fewest game pieces, Alex can choose between them. Alex chooses the right space, and places 2 debris into that space.</i>
 
 ## 4. Orbit Around Earth
 The final step of a player's turn is rotating the High Earth Orbit and Low Earth Orbit boards.
 
-![[TX_Rulebook_Orbit.png]]
+<img src="https://raw.githubusercontent.com/gipritchard/Space-Debris/refs/heads/main/assets/screenshots/TX_Rulebook_Orbit.png"  />
 - Rotate the High Earth Orbit (HEO) board with all pieces on it, 90° clockwise
 - Rotate the Low Earth Orbit (LEO) board with all pieces on it, an additional 90° clockwise
 
