@@ -113,6 +113,7 @@ On your turn you may take up to 4 actions, in any order. You may take the same a
 
 <img src="https://raw.githubusercontent.com/gipritchard/Space-Debris/refs/heads/main/assets/screenshots/TX_Rulebook_Action_MoveExample.png" width=200/>
 *Example: Caitlin chooses the thrust action and moves her pawn twice. Her first move places her to 'Satellite B's space. Her second move places her in a space with two debris. Even though the space has more than 1 debris, she only takes 1 point of damage.*
+
 ### Capture Debris
 - Move any number of debris from your space onto your spaceship.
 
@@ -133,6 +134,7 @@ See the "Hand Limit" section for restrictions.
 
 <img src="https://raw.githubusercontent.com/gipritchard/Space-Debris/refs/heads/main/assets/screenshots/TX_Rulebook_Action_RecycleExample.png"  />
 *Example: Caitlin chooses to recycle all 3 debris on her spaceship card. She moves the debris to the supply, and draws 3 resource cards. She has less than 5 cards in hand, and does not need to discard excess resource cards.*
+
 ### Deliver
 At any malfunctioning Satellite space, you may...
 - Place any number of Resource cards from your hand next to the associated Satellite card that match the required resources
@@ -146,6 +148,7 @@ At any malfunctioning Satellite space, you may...
 
 <img src="https://raw.githubusercontent.com/gipritchard/Space-Debris/refs/heads/main/assets/screenshots/TX_Rulebook_Action_DeliverExample.png"  />
 *Example: Satellite B needs 2 more fuel and 1 more electronics to be operational. Caitlin has 1 fuel, and 2 junk (wild) resource cards in hand. She moves to Satellite B, then uses the deliver action. Satellite B now has all required resources! She flips the card to operational, fully heals the satellite, decreases threat by 1, then discards all resource cards next to the satellite. All players now has access to the Onboard Boosters satellite action.*
+
 ### Repair
 At any Satellite space, you may...
 - Increase your spaceship's health by 1.
