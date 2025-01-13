@@ -112,7 +112,7 @@ On your turn you may take up to 4 actions, in any order. You may take the same a
 	- If the space you move into contains any debris, your spaceship takes 1 point of damage.
 
 <img src="https://raw.githubusercontent.com/gipritchard/Space-Debris/refs/heads/main/assets/screenshots/TX_Rulebook_Action_MoveExample.png" width=200/>
-*Example: Caitlin chooses the thrust action and moves her pawn twice. Her first move places her to 'Satellite B's space. Her second move places her in a space with two debris. Even though the space has more than 1 debris, she only takes 1 point of damage.*
+<i>Example: Caitlin chooses the thrust action and moves her pawn twice. Her first move places her to 'Satellite B's space. Her second move places her in a space with two debris. Even though the space has more than 1 debris, she only takes 1 point of damage.</i>
 
 ### Capture Debris
 - Move any number of debris from your space onto your spaceship.
@@ -124,7 +124,7 @@ OR
 Spaceships carry debris up to their capacity. A spaceship's capacity starts at 5, and may be upgraded via other actions.
 
 <img src="https://raw.githubusercontent.com/gipritchard/Space-Debris/refs/heads/main/assets/screenshots/TX_Rulebook_Action_CaptureExample.png" width=200/>
-*Example: Caitlin decides to capture twice. Her first capture action moves both debris from her space onto her Spaceship card. Her second capture action moves 1 debris from an adjacent space onto her Spaceship card. She now has 3 debris on her spaceship, and has room for 2 more debris.*
+<i>Example: Caitlin decides to capture twice. Her first capture action moves both debris from her space onto her Spaceship card. Her second capture action moves 1 debris from an adjacent space onto her Spaceship card. She now has 3 debris on her spaceship, and has room for 2 more debris.</i>
 
 ### Recycle
 - Move any number of debris from your spaceship back to the supply, then draw that number of resource cards.
@@ -133,7 +133,7 @@ Spaceships carry debris up to their capacity. A spaceship's capacity starts at 5
 See the "Hand Limit" section for restrictions. 
 
 <img src="https://raw.githubusercontent.com/gipritchard/Space-Debris/refs/heads/main/assets/screenshots/TX_Rulebook_Action_RecycleExample.png"  />
-*Example: Caitlin chooses to recycle all 3 debris on her spaceship card. She moves the debris to the supply, and draws 3 resource cards. She has less than 5 cards in hand, and does not need to discard excess resource cards.*
+<i>Example: Caitlin chooses to recycle all 3 debris on her spaceship card. She moves the debris to the supply, and draws 3 resource cards. She has less than 5 cards in hand, and does not need to discard excess resource cards.</i>
 
 ### Deliver
 At any malfunctioning Satellite space, you may...
@@ -147,7 +147,7 @@ At any malfunctioning Satellite space, you may...
 - If all Satellite cards are on the operational side, you win!
 
 <img src="https://raw.githubusercontent.com/gipritchard/Space-Debris/refs/heads/main/assets/screenshots/TX_Rulebook_Action_DeliverExample.png"  />
-*Example: Satellite B needs 2 more fuel and 1 more electronics to be operational. Caitlin has 1 fuel, and 2 junk (wild) resource cards in hand. She moves to Satellite B, then uses the deliver action. Satellite B now has all required resources! She flips the card to operational, fully heals the satellite, decreases threat by 1, then discards all resource cards next to the satellite. All players now has access to the Onboard Boosters satellite action.*
+<i>Example: Satellite B needs 2 more fuel and 1 more electronics to be operational. Caitlin has 1 fuel, and 2 junk (wild) resource cards in hand. She moves to Satellite B, then uses the deliver action. Satellite B now has all required resources! She flips the card to operational, fully heals the satellite, decreases threat by 1, then discards all resource cards next to the satellite. All players now has access to the Onboard Boosters satellite action.</i>
 
 ### Repair
 At any Satellite space, you may...
@@ -162,7 +162,8 @@ OR
 - Increase a teammate spaceship's health by 1, if they are also in your space.
 
 <img src="https://raw.githubusercontent.com/gipritchard/Space-Debris/refs/heads/main/assets/screenshots/TX_Rulebook_Action_RepairExample.png"  />
-*Example: Austin (orange) is on Satellite C's space with Caitlin (blue), and chooses the repair action. He can choose to heal 1 point of damage on himself, Caitlin, or Satellite C. Austin is at 1 HP and chooses himself, increasing his health from 1 to 2.*
+<i>Example: Austin (orange) is on Satellite C's space with Caitlin (blue), and chooses the repair action. He can choose to heal 1 point of damage on himself, Caitlin, or Satellite C. Austin is at 1 HP and chooses himself, increasing his health from 1 to 2.</i>
+
 ### Exchange Resource
 While sharing a space with another player, you may...
 - Give 1 Resource card to the other player
