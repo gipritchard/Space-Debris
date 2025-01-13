@@ -51,19 +51,18 @@ Debris fields are treacherous, and additional damage will jeopardize future miss
 2. Stack the High Earth Orbit (HEO) game board on top of the GSO game board
 3. Stack the Low Earth Orbit (LEO) game board on top of the HEO game board
 4. Align GSO, HEO, LEO, & Earth arrows as shown in the picture above
-5. Place the Threat Track adjacent to the GSO game board
-6. Place the Threat Token on the Threat Track starting space based on the number of players in the game
+5. Place the threat track adjacent to the GSO game board
+6. Place the threat token on the threat track starting space based on the number of players in the game
 
 ## Assign Player Spaceships
 ![[TX_Rulebook_Setup2.png]]
-1. Give each player a player aid card
-2. Give each player 1 pawn, 1 Spaceship card, 1 HP Tracker, 1 Debris capacity Tracker  
-3. Each player, place the spaceship card face up on the table in front of them
-4. Each player, place the HP Tracker token on your spaceship card under the 4 HP mark
-5. Each player, place the Debris Capacity Tracker on your spaceship card under the 5 capacity mark  
-6. Shuffle all Resource cards into a single Resource deck
-7. Place the Resource deck face down near the game board
-8. Each player, draw 2 cards from the Resource deck and add them to your hand 
+1. Give each player a player aid, 1 pawn, 1 spaceship card, 1 HP tracker, 1 debris capacity tracker 
+2. Each player, place the spaceship card face up on the table in front of them
+3. Each player, place the HP tracker on your spaceship set to 4 HP
+4. Each player, place the debris capacity tracker on your spaceship set to 5 capacity  
+5. Shuffle all resource cards into a single resource deck
+6. Place the resource deck face down near the game board
+7. Each player, draw 2 cards from the resource deck and add them to your hand
 
 ## Choose Satellites
 ![[TX_Rulebook_Setup3.png]]
