@@ -355,7 +355,7 @@ For each Resource card discarded from a player's hand because of hand limit rest
 # FAQs
 
 **Q**: How much damage do I take if my thrust action moves me into 2 spaces that both contain debris?
-**A**: Each time your pawn moves into a space with debris, you take 1 damage. In this situation, you take 2 damage total.
+- **A**: Each time your pawn moves into a space with debris, you take 1 damage. In this situation, you take 2 damage total.
 
 # Credits
 
