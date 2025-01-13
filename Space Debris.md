@@ -238,7 +238,7 @@ Each space is limited to 3 debris. As debris accumulates, the risk of a _collisi
 *Example 1: Michael has a facedown orbit card in front of him with 1 debris on it. He flips it face up, and finds that space on the game board. The space is empty. Michael places the 1 debris from the card onto that space. Finally, he discards the orbit card.*
 
 ![[TX_Rulebook_PlaceDebris_Example2.png]]
-*Example 2 Michael has a facedown orbit card in front of him with 2 debris on it. He flips it face up, and finds that space on the game board. The space contains the 'D' satellite token. He deals 1 damage to the 'D' satellite, increases Threat by 1, then places 2 debris onto that space. Finally, he discards the orbit card.*
+*Example 2: Michael has a facedown orbit card in front of him with 2 debris on it. He flips it face up, and finds that space on the game board. The space contains the 'D' satellite token. He deals 1 damage to the 'D' satellite, increases Threat by 1, then places 2 debris onto that space. Finally, he discards the orbit card.*
 ### Fragmentation Card
 - Increase Threat by 1 space
 - Draw the top card of the orbit deck
@@ -247,7 +247,9 @@ Each space is limited to 3 debris. As debris accumulates, the risk of a _collisi
 - Shuffle the orbit discard and draw piles together
 - Discard this card
 
-**Example**: TODO
+![[TX_Rulebook_Fragmentation.png]]
+*Example: John has a facedown orbit card in front of him with 1 debris on it. He flips it face up to reveal a Fragmentation card. He increases threat by 1 space, then draws the top card of the orbit deck. He finds that space on the gameboard. It contains 2 debris and his pawn, unlucky! He deals 1 damage to himself, and places 3 debris into his space (1 from his orbit card, and 2 from the supply).*
+*His space now contains 5 debris. This causes a collision. Because of the collision, he increases threat by 1 space, and moves 2 debris to an adjacent space with the fewest game pieces. In this case the space to the right. John discards the orbit card, the shuffles the orbit discard and draw piles together. John has fully resolved the fragmentation card and collision. He discards the fragmentation card starting a new discard pile.*
 
 ### Collision
 Collisions occur when a space contains more than 3 debris. This knocks excess debris into an adjacent space with the fewest game pieces (Debris, Spaceships, Satellites). Its possible for a collision to cause a chain reaction if debris accumulation goes unchecked. When a collision occurs, perform the following steps in order:
@@ -255,7 +257,7 @@ Collisions occur when a space contains more than 3 debris. This knocks excess de
 - Increase Threat by 1 space
 - Place excess debris in an adjacent space with the fewest game pieces 
 	- If there is a tie for fewest game pieces, the current player chooses.
-	- If at any point, every adjacent space has 3 Debris and you have more debris to place, you are defeated.
+	- If every adjacent space has 3 debris, you are defeated.
 
 ![](../attachments/collision_example1.jpg)
 **Example**: Alex must add 2 debris to a space that contains 3 debris. This causes a collision. Alex increases Threat by 1. Next, he looks at all adjacent spaces. The left space contains 1 pawn, the right space contains 1 debris, and the space below contains a satellite and 1 pawn. The left space and right space are tied for fewest game pieces, Alex can choose between them. Alex chooses the right space, and places 2 debris into that space.
