@@ -8,7 +8,7 @@ That's where you come in. These debris fields are full of the necessary resource
 Debris fields are treacherous, and additional damage will jeopardize future missions. Proceed with caution, our success is essential to the future of space exploration.
 
 # Components
-![[TX_Rulebook_Components.png]]
+![](https://raw.githubusercontent.com/gipritchard/Space-Debris/refs/heads/main/assets/screenshots/TX_Rulebook_Components.png)
 - 3 Game boards
 	- 1 Low Earth Orbit (LEO)
 	- 1 High Earth Orbit (HEO)
@@ -40,11 +40,11 @@ Debris fields are treacherous, and additional damage will jeopardize future miss
 - 50 Debris cubes
 
 # Set Up
-![[TX_Rulebook_Setup0.png]]
+![](https://raw.githubusercontent.com/gipritchard/Space-Debris/refs/heads/main/assets/screenshots/TX_Rulebook_Setup0.png)
 *Complete game set up for an example 4 player game*
 
 ## Create the Game Board
-![[TX_Rulebook_Setup1.png]]
+![](https://raw.githubusercontent.com/gipritchard/Space-Debris/refs/heads/main/assets/screenshots/TX_Rulebook_Setup1.png)
 *Initial set up with game boards stacked on top of each other. Threat marker placed for a 4 player game.*
 
 1. Place the Geostationary Orbit (GSO) game board in the center of the table
@@ -55,7 +55,7 @@ Debris fields are treacherous, and additional damage will jeopardize future miss
 6. Place the threat token on the threat track starting space based on the number of players in the game
 
 ## Assign Player Spaceships
-![[TX_Rulebook_Setup2.png]]
+![](https://raw.githubusercontent.com/gipritchard/Space-Debris/refs/heads/main/assets/screenshots/TX_Rulebook_Setup2.png)
 1. Give each player a player aid, 1 pawn, 1 spaceship card, 1 HP tracker, 1 debris capacity tracker 
 2. Each player, place the spaceship card face up on the table in front of them
 3. Each player, place the HP tracker on your spaceship set to 4 HP
@@ -65,7 +65,7 @@ Debris fields are treacherous, and additional damage will jeopardize future miss
 7. Each player, draw 2 cards from the resource deck and add them to your hand
 
 ## Choose Satellites
-![[TX_Rulebook_Setup3.png]]
+![](https://raw.githubusercontent.com/gipritchard/Space-Debris/refs/heads/main/assets/screenshots/TX_Rulebook_Setup3.png)
 1. Players choose (or randomly choose) 4 Satellite cards
 3. Place all Satellite cards, on their malfunctioning side, next to the Satellite Tracker 
 	1. Each satellite will be assigned a letter: "A", "B", "C", "D"
@@ -73,7 +73,7 @@ Debris fields are treacherous, and additional damage will jeopardize future miss
 5. Place the Satellite HP Tracker token on each Satellite card under the 4 HP mark
 
 ## Add Orbitals
-![[TX_Rulebook_Setup4.png]]
+![](https://raw.githubusercontent.com/gipritchard/Space-Debris/refs/heads/main/assets/screenshots/TX_Rulebook_Setup4.png)
 *Example 4 player game set up*
 
 1. Remove fragmentation cards from the orbit deck
@@ -115,6 +115,9 @@ On your turn you may take up to 4 actions, in any order. You may take the same a
 	- If the space you move into contains any debris, your spaceship takes 1 point of damage.
 
 ### Capture Debris
+
+<img src="https://raw.githubusercontent.com/gipritchard/Space-Debris/refs/heads/main/assets/screenshots/TX_Rulebook_Action_CaptureExample.png" />
+
 ![](https://raw.githubusercontent.com/gipritchard/Space-Debris/refs/heads/main/assets/screenshots/TX_Rulebook_Action_CaptureExample.png)
 
 *Example: Caitlin decides to capture twice. Her first capture action moves both debris from her space onto her Spaceship card. Her second capture action moves 1 debris from an adjacent space onto her Spaceship card. She now has 3 debris on her spaceship, and has room for 2 more debris.*
