@@ -251,7 +251,7 @@ Each space is limited to 3 debris. As debris accumulates, the risk of a _collisi
 His space now contains 5 debris. This causes a collision. Because of the collision, he increases threat by 1 space, and moves 2 debris to an adjacent space with the fewest game pieces. In this case the space to the right. John discards the orbit card, the shuffles the orbit discard and draw piles together. John has fully resolved the fragmentation card and collision. He discards the fragmentation card starting a new discard pile.</i>
 
 ### Collision
-Collisions occur when a space contains more than 3 debris. This knocks excess debris into an adjacent space with the fewest game pieces (Debris, Spaceships, Satellites). Its possible for a collision to cause a chain reaction if debris accumulation goes unchecked. When a collision occurs, perform the following steps in order:
+Collisions occur when a space contains more than 3 debris. This knocks excess debris into an adjacent space with the fewest game pieces (Debris, Pawns, Satellites). Its possible for a collision to cause a chain reaction if debris accumulation goes unchecked. When a collision occurs, perform the following steps in order:
 
 - Increase Threat by 1 space
 - Place excess debris in an adjacent space with the fewest game pieces 
