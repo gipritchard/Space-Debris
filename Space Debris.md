@@ -119,11 +119,11 @@ On your turn you may take up to 4 actions, in any order. You may take the same a
 ![[TX_Rulebook_Action_CaptureExample.png]]
 *Example: Caitlin decides to capture twice. Her first capture action moves both debris from her space onto her Spaceship card. Her second capture action moves 1 debris from an adjacent space onto her Spaceship card. She now has 3 debris on her spaceship, and has room for 2 more debris.*
 
-- Move any number of debris from your space onto your spaceship card.
+- Move any number of debris from your space onto your spaceship.
 
 OR
 
-- Move 1 debris from an adjacent space onto your spaceship card.
+- Move 1 debris from an adjacent space onto your spaceship.
 
 Spaceships carry debris up to their capacity. A spaceship's capacity starts at 5, and may be upgraded via other actions.
 
@@ -131,7 +131,7 @@ Spaceships carry debris up to their capacity. A spaceship's capacity starts at 5
 ![[TX_Rulebook_Action_RecycleExample.png]]
 *Example: Caitlin chooses to recycle all 3 debris on her spaceship card. She moves the debris to the supply, and draws 3 resource cards. She has less than 5 cards in hand, and does not need to discard excess resource cards.*
 
-- Move any number of debris from your spaceship card back to the supply, then draw that number of resource cards.
+- Move any number of debris from your spaceship back to the supply, then draw that number of resource cards.
 	- If you recycle 5 or more debris in one action, decrease Threat by 1 space
 
 See the "Hand Limit" section for restrictions. 
@@ -155,15 +155,15 @@ At any malfunctioning Satellite space, you may...
 *Example: Austin (orange) is on Satellite C's space with Caitlin (blue), and chooses the repair action. He can choose to heal 1 point of damage on himself, Caitlin, or Satellite C. Austin is at 1 HP and chooses himself, increasing his health from 1 to 2.*
 
 At any Satellite space, you may...
-- Increase your spaceship's health by 1 HP.
+- Increase your spaceship's health by 1.
 
 OR
 
-- Increase the satellite's health by 1 HP.
+- Increase the satellite's health by 1.
 
 OR
 
-- Increase a teammate spaceship's health by 1 HP, if they are also in your space.
+- Increase a teammate spaceship's health by 1, if they are also in your space.
 
 ### Exchange Resource
 While sharing a space with another player, you may...
@@ -227,10 +227,12 @@ Each space is limited to 3 debris. As debris accumulates, the risk of a _collisi
 - Repeat until all cards are discarded
 ### Orbit Card
 - Locate the space on the game board
-- All spaceships in this space take 1 damage
-- Any satellite in this space takes 1 damage AND Threat increases by 1 space
+- Deal 1 damage to each spaceship in this space
+- If this space has a satellite...
+	- Deal 1 damage to the satellite
+	- Increase Threat by 1 space
 - Add debris to this space
-	- If the space contains more than 3 debris, then a <i>collision</i> has occurred. See the Collision section below.
+	- If this space contains more than 3 debris, then a _collision_ has occurred. See the Collision section below.
 - Discard this card
 
 ![[TX_Rulebook_PlaceDebris_Example1.png]]
@@ -352,8 +354,8 @@ For each Resource card discarded from a player's hand because of hand limit rest
 
 # FAQs
 
-Q: How much damage do I take if my thrust action moves me into 2 spaces that both contain debris?
-A: Each time your pawn moves into a space with debris, you take 1 damage. In this situation, you take 2 damage total.
+**Q**: How much damage do I take if my thrust action moves me into 2 spaces that both contain debris?
+**A**: Each time your pawn moves into a space with debris, you take 1 damage. In this situation, you take 2 damage total.
 
 # Credits
 
