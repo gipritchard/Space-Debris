@@ -95,7 +95,7 @@ Debris fields are treacherous, and additional damage will jeopardize future miss
 
 # Objective 
 
-Flip all malfunctioning satellites to their operational side by delivering the necessary resources. 
+Flip all malfunctioning satellites cards to operational by repairing them with the necessary resources. 
 # Order of Play
 The player who last looked at the night sky goes first, and play continues to the left. On every turn, do the following four things in order:
 1. Take up to 4 actions
@@ -135,21 +135,21 @@ See the "Hand Limit" section for restrictions.
 <img src="https://raw.githubusercontent.com/gipritchard/Space-Debris/refs/heads/main/assets/screenshots/TX_Rulebook_Action_RecycleExample.png"  />
 <i>Example: Caitlin chooses to recycle all 3 debris on her spaceship card. She moves the debris to the supply, and draws 3 resource cards. She has less than 5 cards in hand, and does not need to discard excess resource cards.</i>
 
-### Deliver
+### Repair
 At any malfunctioning Satellite space, you may...
 - Place any number of Resource cards from your hand next to the associated Satellite card that match the required resources
-- If all required resources have been delivered to a Satellite...
+- If the Satellite has all required resources...
 	- Decrease Threat by 1 space
 	- Move all Resource cards from the Satellite to the Resource discard pile
 	- Flip the Satellite card from the malfunctioning side to the operational side
 	- Set the Satellite's HP tracker to the maximum value
-	- Your team now has access to the Satellite's team bonus
+	- Gain access to the Satellite's team bonus
 - If all Satellite cards are on the operational side, you win!
 
-<img src="https://raw.githubusercontent.com/gipritchard/Space-Debris/refs/heads/main/assets/screenshots/TX_Rulebook_Action_DeliverExample.png"  />
-<i>Example: Satellite B needs 2 more fuel and 1 more electronics to be operational. Caitlin has 1 fuel, and 2 junk (wild) resource cards in hand. She moves to Satellite B, then uses the deliver action. Satellite B now has all required resources! She flips the card to operational, fully heals the satellite, decreases threat by 1, then discards all resource cards next to the satellite. All players now has access to the Onboard Boosters satellite action.</i>
+<img src="https://raw.githubusercontent.com/gipritchard/Space-Debris/refs/heads/main/assets/screenshots/TX_Rulebook_Action_RepairExample.png"  />
+<i>Example: Satellite B needs 2 more fuel and 1 more electronics to be operational. Caitlin has 1 fuel, and 2 junk (wild) resource cards in hand. She moves to Satellite B, then uses the repair action. Satellite B now has all required resources! She flips the card to operational, fully heals the satellite, decreases threat by 1, then discards all resource cards next to the satellite. All players now has access to the Onboard Boosters satellite action.</i>
 
-### Repair
+### Heal
 At any Satellite space, you may...
 - Increase your spaceship's health by 1.
 
@@ -161,8 +161,8 @@ OR
 
 - Increase a teammate spaceship's health by 1, if they are also in your space.
 
-<img src="https://raw.githubusercontent.com/gipritchard/Space-Debris/refs/heads/main/assets/screenshots/TX_Rulebook_Action_RepairExample.png"  />
-<i>Example: Austin (orange) is on Satellite C's space with Caitlin (blue), and chooses the repair action. He can choose to heal 1 point of damage on himself, Caitlin, or Satellite C. Austin is at 1 HP and chooses himself, increasing his health from 1 to 2.</i>
+<img src="https://raw.githubusercontent.com/gipritchard/Space-Debris/refs/heads/main/assets/screenshots/TX_Rulebook_Action_HealExample.png"  />
+<i>Example: Austin (orange) is on Satellite C's space with Caitlin (blue), and chooses the heal action. He can choose to heal 1 point of damage on himself, Caitlin, or Satellite C. Austin is at 1 HP and chooses himself, increasing his health from 1 to 2.</i>
 
 ### Exchange Resource
 While sharing a space with another player, you may...
@@ -182,9 +182,9 @@ See the "Hand Limit" section for restrictions.
 #### Plastic
 - Discard this card to upgrade your spaceship's debris capacity by 1.
 #### Metal
-- Discard this card to fully repair 1 spaceship or satellite in your space.
+- Discard this card to fully heal 1 spaceship or satellite in your space.
 #### Junk
-- This is a wild resource (fuel, electronics, plastic, metal) used during a Deliver action.
+- This is a wild resource (fuel, electronics, plastic, metal) used during a repair action.
 - Cannot be played as an action.
 
 ### Activate Satellite
@@ -277,7 +277,7 @@ Players have a hand limit of 5 Resource cards. If you ever have 6 or more cards 
 Immediately shuffle the Resource discard pile and stack the cards face down to form a new Resource deck. If this happens in the middle of a turn, continue to draw Resource cards as necessary from the new pile.
 
 ## Satellites
-Satellites can be in two states; malfunctioning and operational. Malfunctioning satellites do not provide any team bonuses. They need all required resources to become operational. Once all required resources have been delivered, flip the satellite card to its operational side and full heal the satellite.
+Satellites can be in two states; malfunctioning and operational. Malfunctioning satellites do not provide any team bonuses. They need all required resources to become operational. Once a satellite has all required resources, flip it to operational and full heal the satellite.
 
 Operational satellites offer powerful teamwide bonuses, one time benefits, or unlock additional actions. Prioritize which satellite should be fixed first to maximize your team's chance for success.
 

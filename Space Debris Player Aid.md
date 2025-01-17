@@ -23,17 +23,17 @@ OR
 - Move debris from your spaceship back to the supply, then draw that number of resource cards.
 	- If you recycle 5 or more debris in one action, decrease Threat by 1 space
 
-### Deliver
+### Repair
 At any malfunctioning Satellite space, you may...
 - Place any number of Resource cards from your hand next to the associated Satellite card that match the required resources
-- If all required resources have been delivered to a Satellite...
+- If the Satellite has all required resources...
 	- Decrease Threat by 1 space
 	- Move all Resource cards from the Satellite to the Resource discard pile
 	- Flip the Satellite card from the malfunctioning side to the operational side
 	- Set the Satellite's HP tracker to the maximum value
-	- Your team now has access to the Satellite's team bonus
+	- Gain access to the Satellite's team bonus
 
-### Repair
+### Heal
 At any Satellite space, you may...
 - Increase your spaceship's health by 1.
 
